@@ -1,6 +1,6 @@
 # Guided Practice 1.1: How do we measure velocity?
 
-## Overview
+## Overview 
 
 Our study of calculus begins with a basic building block for understanding change: the concept of **average velocity**. Two formulas for average velocity are introduced in the section and connected to the concept of the slope of a line. The concept of **instantaneous velocity** -- central to an understanding of calculus -- is introduced at the end. 
 
