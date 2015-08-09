@@ -1,3 +1,7 @@
+---
+layout: default
+title: Guided Practice 1.1
+---
 # Guided Practice 1.1: How do we measure velocity?
 
 ## Overview 
