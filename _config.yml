@@ -1,2 +1,3 @@
-name: Serge Ballif
-markdown: kramdown
+name: Math 181
+markdown: redcarpet
+pygments: true
