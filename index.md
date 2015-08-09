@@ -6,7 +6,21 @@ title: Serge Ballif
         		<h3>Serge Ballif</h3>
 				<p>I am a math professor at Nevada State College.</p>
     		</div><!-- /.blurb -->
-    		
+# Guided Practice 1.1: How do we measure velocity?
+
+## Overview
+
+Our study of calculus begins with a basic building block for understanding change: the concept of **average velocity**. Two formulas for average velocity are introduced in the section and connected to the concept of the slope of a line. The concept of **instantaneous velocity** -- central to an understanding of calculus -- is introduced at the end. 
+
+## Learning objectives
+
+__Basic objectives__: Each student is responsible for gaining proficiency with each of these tasks _prior_ to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below). 
+
+* Given a formula for the position of an object as a function of time, find the object's position at a specific time. 
+* Calculate the average velocity of an object over a given time interval using the average velocity formula on page 2. 
+* Calculate the average velocity of an object over a given time interval using the average velocity formula on page 5.
+* Explain the differences between the two average velocity formulas in this section. 
+* Explain the difference between average velocity and instantaneous velocity.     		
 
 <!--
 <!DOCTYPE html>
