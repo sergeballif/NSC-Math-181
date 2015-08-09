@@ -1,3 +1,4 @@
 name: Math 181
 markdown: kramdown
 pygments: true
+baseurl: sergeballif.github.io/NSC-Math-181
