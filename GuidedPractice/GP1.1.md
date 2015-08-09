@@ -1,6 +1,6 @@
 # Guided Practice 1.1: How do we measure velocity?
 
-## Overview
+## Overview 
 
 Our study of calculus begins with a basic building block for understanding change: the concept of **average velocity**. Two formulas for average velocity are introduced in the section and connected to the concept of the slope of a line. The concept of **instantaneous velocity** -- central to an understanding of calculus -- is introduced at the end. 
 
@@ -37,7 +37,7 @@ __Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bi
 
 The following exercises are to be done _during_ and _following_ your reading and viewing of the resources. Work these out on paper and then enter the responses into the appropriate submission form (see Submission Instructions) by the deadline. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. 
 
-1. Consider the function $f(x) = 64 - 16(x-1)^2$. Calculate the following: $f(1)$, $f(0.5)$, and the slope of the line that connects the points $(1, f(1))$ and $(0.5, f(0.5))$. On your own, double-check your work with a graph of this function. 
+1. Consider the function $f(x) = 64 - 16(x-1)^2$. Calculate the following: $f(1)$, $f(2)$, and the slope of the line that connects the points $(1, f(1))$ and $(0.5, f(0.5))$. On your own, double-check your work with a graph of this function. 
 2. Suppose that the height $s$ of a ball (in feet) at time $t$ (in seconds) is given by the formula $s(t) = 64-16(t-1)^2$. Calculate $s(1)$ and $s(0.5)$ and state the units of these quantities (feet, meters, etc.). Then compute the average velocity of the ball from $t = 0.5$ to $t = 1$ using one of the two average velocity formulas from the textbook reading. 
 3. Explain in one sentence the connection between the slope of the line you computed in exercise 1 and the value of the average velocity that you computed in exercise 2. 
 4. Explain in 1--2 sentences why the average velocity you calculated in exercise 2 might be different from the instantaneous velocity of the ball at the instant $t = 1$. 
