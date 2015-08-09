@@ -1,55 +1,49 @@
-# Guided Practice 1.2: The notion of limit	
+# Guided Practice 1.1: How do we measure velocity?
 
 ## Overview
 
-In this section we introduce the all-important concept of the **limit**. A limit is a process that we apply to an existing function where we let the input to the function get closer and closer to -- but not become exactly equal to -- a certain input and observe what the outputs do. This process is central for computing instantaneous velocities, and it will lead us to the main concepts of calculus. For now, we will define the concept of the limit and calculate limits using graphical and numerical methods. 
+Our study of calculus begins with a basic building block for understanding change: the concept of **average velocity**. Two formulas for average velocity are introduced in the section and connected to the concept of the slope of a line. The concept of **instantaneous velocity** -- central to an understanding of calculus -- is introduced at the end. 
 
 ## Learning objectives
 
 __Basic objectives__: Each student is responsible for gaining proficiency with each of these tasks _prior_ to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below). 
 
-* State the definition of what it means for a function $f$ to have a limit $L$ as $x$ approaches a number $a$, and explain what the definition means in nontechnical terms. 
-* Explain the meaning of the notation: $\displaystyle{\lim_{x \rightarrow a} f(x) = L}$ in clear terms. 
-* Calculate limits of functions (or determine if a function fails to have a limit) by examining a graph of the function. 
-* Calculate limits of functions (or determine if a function fails to have a limit) by constructing a table of values for the function (see Example 1.2).
-* Explain the difference between the value of a function at a point, and the value of a limit of a function near a point.
+* Given a formula for the position of an object as a function of time, find the object's position at a specific time. 
+* Calculate the average velocity of an object over a given time interval using the average velocity formula on page 2. 
+* Calculate the average velocity of an object over a given time interval using the average velocity formula on page 5.
+* Explain the differences between the two average velocity formulas in this section. 
+* Explain the difference between average velocity and instantaneous velocity. 
 
 __Advanced objectives__: The following objectives are the subject of class discussion and further work; they should be mastered by each student _during_ and _following_ class discussions. 
 
-* Evaluate a limit of an expression that involves fractions algebraically, by simplifying the fraction and "taking limits". (See Activity 1.4.) 
-* Apply the concept of a limit to find the instantaneous velocity of a moving object, by evaluating a limit of an average velocity. 
+* Explain the meaning of a negative velocity. 
+* Interpret the average velocity of an object geometrically through the use of the graph of its position function. 
+* Use the second average velocity formula to find the average velocity of an object on an interval starting at time $t = a$ and ending at time $t = a + h$, where $a$ is given but $h$ is a variable. Express the answer in simplest form as a function of $h$. 
+* Given the average velocity of an object from time $t = a$ to time $t = a+h$, find its instantaneous velocity at the single moment $t = a$. (See Example 1.1 and Screencast 1.1.3.)
 
 ## Learning resources 
 
 To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following. 
 
-__Textbook__: In _Active Calculus_, read Section 1.2. Make sure to read actively, working through examples and activities as you go. 
+__Textbook__: In _Active Calculus_, read Section 1.1 pages 1--7. Make sure to read actively, working through examples and activities as you go. 
 
 __Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus). 
 
-- [Limits](http://www.youtube.com/watch?v=GZzJOAUOqLI) (6:02)
-- [Limits of functions using graphing tools](http://www.youtube.com/watch?v=5TFu_sh_orM) (6:27)
-- [Limits of functions using tables](http://www.youtube.com/watch?v=GdBIiRzaTAQ) (5:58) 
-- [Limits of functions using spreadsheets](http://www.youtube.com/watch?v=uAepmkpG34A) (5:38)
+- [Using the average velocity formula](https://www.youtube.com/watch?v=6HPe7iwr88k) (7:39)
+- [Alternative average velocity formula](https://www.youtube.com/watch?v=O_Z9osv6VGk) (11:07)
+- [Finding instantaneous velocity](https://www.youtube.com/watch?v=j8kJubOTkME) (14:03) 
 
 ## Exercises
 
 The following exercises are to be done _during_ and _following_ your reading and viewing of the resources. Work these out on paper and then enter the responses into the appropriate submission form (see Submission Instructions) by the deadline. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. 
 
-For this Guided Practice, you will be using a Google Spreadsheet to answer the questions. Refer to the "Limits of functions using spreadsheets" video above for a brief overview of using spreadsheets. Go to the following link and make a copy of the template by going to the `File` menu and then selecting `Make a copy`: [http://bit.ly/1Ijlizn](http://bit.ly/1Ijlizn)
-
-1. Work through Preview Activity 1.2 and give your answers on the spreadsheet in the appropriate place. 
-2. Consider the function $f(x) = \dfrac{x^2 - 4}{x+2}$. On the spreadsheet, calculate the following: f(-1.5), f(-1.9), f(-1.99), f(-1.999), f(-1.9999). Then calculate f(-2.5), f(-2.1), f(-2.01), f(-2.001), f(-2.0001). Use the spreadsheet itself to make the calculations as described in the fourth video above; ask questions on the discussion board if you have difficulty with this. Then, state what you believe is the value of $\displaystyle{\lim_{x \to -2} f(x)}$ and give a one-sentence explanation.
-3. Go back to the function in exercise 2 and try to directly evaluate $f(-2)$. What happens?
+1. Consider the function $f(x) = 64 - 16(x-1)^2$. Calculate the following: $f(1)$, $f(0.5)$, and the slope of the line that connects the points $(1, f(1))$ and $(0.5, f(0.5))$. On your own, double-check your work with a graph of this function. 
+2. Suppose that the height $s$ of a ball (in feet) at time $t$ (in seconds) is given by the formula $s(t) = 64-16(t-1)^2$. Calculate $s(1)$ and $s(0.5)$ and state the units of these quantities (feet, meters, etc.). Then compute the average velocity of the ball from $t = 0.5$ to $t = 1$ using one of the two average velocity formulas from the textbook reading. 
+3. Explain in one sentence the connection between the slope of the line you computed in exercise 1 and the value of the average velocity that you computed in exercise 2. 
+4. Explain in 1--2 sentences why the average velocity you calculated in exercise 2 might be different from the instantaneous velocity of the ball at the instant $t = 1$. 
+5. Any other questions about the mathematical content in this section? 
 
 
 ## Submission instructions
 
-This time, your submissions will be done using a copy of the spreadsheet linked above. To submit your work, do the following: 
-
-1. Go to the top right of the spreadsheet and find the blue `Share` button, and click it. 
-2. In the small window that opens, click on `Get shareable link` button. This will copy a link to your work into your computer's clipboard.
-3. Go to this form and paste the link into the field that asks for it: [http://bit.ly/1bzO8OX](http://bit.ly/1bzO8OX). There is also a text field to put any specific mathematical questions you may have. 
-
-Remember that if you have trouble with the spreadsheet, __ask for help on the discussion board first and be specific about the issue you are having.__
-
+Submit your responses using the form at this link: [http://bit.ly/1bPk6Ym](http://bit.ly/1bPk6Ym)
