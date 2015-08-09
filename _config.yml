@@ -1,3 +1,3 @@
 name: Math 181
-markdown: redcarpet
+markdown: kramdown
 pygments: true
