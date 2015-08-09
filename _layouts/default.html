@@ -8,7 +8,31 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
 <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({\n	skipStartupTypeset: true,\n    "HTML-CSS": {\n preferredFont: "TeX",\n  availableFonts: [\n  "TeX"\n ],\n  linebreaks: {\n  automatic: true\n },\n EqnChunk: 10,\n imageFont: null\n },\n tex2jax: <%= tex2jax || \'{ inlineMath: [["$","$"],["\\\\\\\\\\\\\\\\(","\\\\\\\\\\\\\\\\)"]], displayMath: [["$$","$$"],["\\\\\\\\[","\\\\\\\\]"]], processEscapes: true }\' %>,\n    TeX: $.extend({\n        noUndefined: {\n            attributes: {\n                mathcolor: "red",\n                mathbackground: "#FFEEEE",\n                mathsize: "90%"\n            }\n        },\n        Safe: {\n            allow: {\n                URLs: "safe",\n                classes: "safe",\n                cssIDs: "safe",\n                styles: "safe",\n                fontsize: "all"\n            }\n        }\n    }, <%= tex %>),\n    messageStyle: "none"\n});\n';})
+MathJax.Hub.Config({
+skipStartupTypeset: true,    
+"HTML-CSS": { 	preferredFont: "TeX",  
+		availableFonts: ["TeX"],  
+		linebreaks: {automatic: true }, 
+		EqnChunk: 10, 
+		imageFont: null }, 
+	tex2jax: 
+	      { inlineMath: [["$","$"],["\\\\\\\\\\\\\\\\(","\\\\\\\\\\\\\\\\)"]], 
+	      	displayMath: [["$$","$$"],["\\\\\\\\[","\\\\\\\\]"]], 
+	      	processEscapes: true },    
+	TeX: $.extend({ noUndefined: {  
+				attributes: { 
+					mathcolor: "red",  
+					mathbackground: "#FFEEEE",  
+					mathsize: "90%"  } },        
+			Safe: {            
+				allow: {                
+					URLs: "safe",                
+					classes: "safe",                
+					cssIDs: "safe",                
+					styles: "safe",               
+					fontsize: "all"  }} },),    
+	messageStyle: "none"});;
+})    
 </script>
 
 
