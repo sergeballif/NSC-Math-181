@@ -9,30 +9,17 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
-skipStartupTypeset: true,    
-"HTML-CSS": { 	preferredFont: "TeX",  
-		availableFonts: ["TeX"],  
-		linebreaks: {automatic: true }, 
-		EqnChunk: 10, 
-		imageFont: null }, 
-	tex2jax: 
-	      { inlineMath: [ ['$', '$'], ["\(", "\)"] ],
-        	displayMath: [ ['$$', '$$'], ["\[", "\]"] ], 
-	      	processEscapes: true },    
-	TeX: $.extend({ noUndefined: {  
-				attributes: { 
-					mathcolor: "red",  
-					mathbackground: "#FFEEEE",  
-					mathsize: "90%"  } },        
-			Safe: {            
-				allow: {                
-					URLs: "safe",                
-					classes: "safe",                
-					cssIDs: "safe",                
-					styles: "safe",               
-					fontsize: "all"  }} },),    
-	messageStyle: "none"});
-})    
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\(", "\)"] ],
+        displayMath: [ ['$$', '$$'], ["\[", "\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });   
 </script>
 
 
