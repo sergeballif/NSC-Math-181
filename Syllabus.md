@@ -97,3 +97,4 @@ All other descriptions of Passing, Mastery, Progressing, or Novice level work ar
 * Score at least 140 total points on WeBWorK, AND
 * Attain Mastery level on at least 10 problems and miniprojects (not necessarily all core), AND
 
+![A Grade Checklist](https://github.com/sergeballif/NSC-Math-181/GradeChart.PNG)
