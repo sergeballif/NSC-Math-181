@@ -3,69 +3,43 @@ layout: default
 title: Math 181 Syllabus
 ---
 
-| Date   	| Guided Practice 	| WeBWorK HW Due 	|
-|--------	|---------	|-----------------	|
-| 	| **Week 1**      	| |
-| Aug 24 	| Intro  |                	|
-| Aug 26 	| [1.1](/NSC-Math-181/GP1.1.html)  |                	|
-| Aug 28 	| [1.2](/NSC-Math-181/GP1.2.html)  | 1.1            	|
-|     	|   **Week 2**      	|                 	|                	
-| Aug 31 	| [1.3](/NSC-Math-181/GP1.3.html)  | 1.2            	|
-| Sep 2 		| [1.4](/NSC-Math-181/GP1.4.html)  | 1.3            	|
-| Sep 4 		| [1.5](/NSC-Math-181/GP1.5.html)  | 1.4            	|   
-|     	|   **Week 3**      	|                 	|                	
-| Sep 7 	| Labor Day  |             	|
-| Sep 9 		| [1.6](/NSC-Math-181/GP1.6.html)  | 1.5            	|
-| Sep 11 		| [1.7](/NSC-Math-181/GP1.7.html)  | 1.6            	|    
-|     	|   **Week 4**      	|                 	|  
-| Sep 14 	| 1.7 continued  |             	|              	
-| Sep 16 	| [1.8](/NSC-Math-181/GP1.8.html)  | 1.7            	|
-| Sep 18 		| Review Day  | 1.8            	| 
-|     	|   **Week 5**      	|                 	|                	
-| Sep 21 	| Midterm 1  |             	|
-| Sep 23 		| [2.1](/NSC-Math-181/GP2.1.html)  |             	|
-| Sep 25 		| [2.2](/NSC-Math-181/GP2.2.html)  | 2.1            	|    
-|     	|   **Week 6**      	|                 	|                	
-| Sep 28 	| [2.3](/NSC-Math-181/GP2.3.html)  | 2.2            	|
-| Sep 30 		| [2.4](/NSC-Math-181/GP2.4.html)  | 2.3            	|
-| Oct 2 		| [2.5](/NSC-Math-181/GP2.5.html)  | 2.4            	|    
-|     	|   **Week 7**      	|                 	|                	
-| Oct 5  	| 2.5 continued |             	|
-| Oct 7 		| [2.6](/NSC-Math-181/GP2.6.html)  | 2.5            	|
-| Oct 9 		| [2.7](/NSC-Math-181/GP2.7.html)  | 2.6            	|
-|     	|   **Week 8**      	|                 	|                	
-| Oct 12  	| Millionaire  |             	|
-| Oct 14 	| [2.8](/NSC-Math-181/GP2.8.html)  | 2.7          	|
-| Oct 16 	| 2.8 continued |            	|
-|     	|   **Week 9**      	|                 	|           
-| Oct 19 	| Review Day | 2.8           	|     	
-| Oct 21  	| Midterm 2 |             	|
-| Oct 23 	| [3.1](/NSC-Math-181/GP3.1.html)  |             	|
-|     	|   **Week 10**      	|                 	|                	
-| Oct 26 	| 3.1 continued  |          	|
-| Oct 28 		| [3.3](/NSC-Math-181/GP3.3.html)  | 3.1            	|
-| Oct 30 	| Nevada Day  |          	|
-|     	|   **Week 11**      	|                 	|                	
-| Nov 2 	| [3.4](/NSC-Math-181/GP3.4.html)  |  3.3           	|
-| Nov 4 		| 3.4 continued  |             	|
-| Nov 6 	| [3.5](/NSC-Math-181/GP3.4.html)  |  3.4           	|
-|     	|   **Week 12**      	|                 	|                	
-| Nov 9 	| 3.5 continued  |          	|
-| Nov 11 		| Veteran's Day  |              	|
-| Nov 13 	| Review Day  | 3.5             	|
-|     	|   **Week 13**      	|                 	|  
-| Nov 16 	| Midterm 3   | No Class      	|
-| Nov 18 	| [4.1](/NSC-Math-181/GP4.1.html)  |             	|
-| Nov 20 	| [4.2](/NSC-Math-181/GP4.2.html)  |  4.1           	|
-|     	|   **Week 14**      	|                 	|  
-| Nov 23 	| [4.3](/NSC-Math-181/GP4.3.html)  |  4.2           	|
-| Nov 25 	| [4.4](/NSC-Math-181/GP4.4.html)  |  4.3           	|
-| Nov 27 	| Thanksgiving Holiday  |       	|
-|     	|   **Week 15**      	|                 	|  
-| Nov 30 	| [5.1](/NSC-Math-181/GP4.3.html)  |  4.4           	|
-| Dec 2 	| [5.2](/NSC-Math-181/GP4.4.html)  |  5.1           	|
-| Dec 4 	| [5.3](/NSC-Math-181/GP4.4.html)  |  5.2           	|
-|     	|   **Week 16**      	|                 	|  
-| Nov 30 	| 5.3 continued  |             	|
-| Dec 2 	| Review Day  |  5.3           	|
-| Dec 4 	| Final Exam  |             	|
+#### Contact Information
+__Instructor:__ Serge Ballif
+__Email:__ Please use the Piazza discussion board in the left panel of Canvas.
+__Telephone:__ (702) 992-2613
+__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
+
+#### Cource Learning Outcomes
+A successful MTH 201 will demonstrate evidence of mastery of each of the following learning outcomes:
+
+* Perform basic limit, derivative, and integral symbolic computations correctly and fluently
+by hand.
+* Compute the tangent line to a function at a specific point on its graph.
+* Compute the area between the graph of a function and the horizontal axis.
+* State the formal definition of the derivative and explain the purpose of the symbols in the
+definition.
+* State the formal definition of the definite integral as a Riemann sum and explain the
+purpose of the symbols in the definition.
+* State and apply the Fundamental Theorem of Calculus.
+* Interpret the meaning of a derivative in terms of the slope of a tangent line and as an
+instantaneous rate of change in a function.
+* Interpret the meaning of a definite integral in terms of total change in a function and in
+terms of signed area.
+* Draw conclusions about the limit, derivative, or integral of a function by examining a
+function in symbolic, graphical, and numerical/data representations.
+* Solve problems that require the use of derivatives to extract useful information and apply it
+within a larger context, such as in optimization and related rates problems.
+* Apply basic knowledge about calculus to new problems.
+* Communicate the results of a problem clearly, correctly, and in a manner appropriate to
+the audience.
+* Use a variety of computing technologies effectively to identify patterns, make deductions, visualize information, solve problems and communicate results of one’s work.
+
+#### Course Materials
+__Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
+[http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--1.5 of this textbook.
+__Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
+__Software:__ The course uses three software tools:
+* [Desmos](https//desmos.com) , a free program for graphing functions and building models. Guided Practice assignments will be completed using Desmos.
+* WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
+* Google Sheets , a free online spreadsheet tool (Website; apps for iOS and Android are
+also available)
