@@ -4,10 +4,10 @@ title: Math 181 Syllabus
 ---
 
 #### Contact Information
-__Instructor:__ Serge Ballif  
-__Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
-__Telephone:__ (702) 992-2613  
-__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help.  
+__Instructor:__ Serge Ballif
+__Email:__ Please use the Piazza discussion board in the left panel of Canvas.
+__Telephone:__ (702) 992-2613
+__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
 
 #### Course Learning Outcomes
 A successful MTH 201 will demonstrate evidence of mastery of each of the following learning  outcomes:
@@ -31,7 +31,6 @@ __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF downl
 [http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
 __Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
 __Software:__ The course uses three software tools:
-
 * [Canvas](http://nsc.instructure.com) is the course management system where our course home page is hosted.
 * [Desmos](https//desmos.com) , a free program for graphing functions and building models. Guided Practice assignments will be completed using Desmos.
 * WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
@@ -43,14 +42,14 @@ The work you do in the course has two purposes: To help you make sense of the co
 * __Guided Practice:__ These are structured activities that guide you (by questions that you answer) through reading, viewing, and other preparatory activities on new content.
 * __WeBWorK Homework:__ For each section there will be about a dozen homework problems to complete using WeBWorK.  These exercises focus on computational skill and basic conceptual  understanding and build upon your first contact with Calculus material you gain
 through Guided Practice.
-* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](images/Math181WeBWorK.pdf)
+* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf)
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
 * __Problems:__ The objectives of the course can be broken down into 16 distinct types of problems. Samples of these 16 types are posted to the Blackboard site. Within these 16 types are 6 types that are labeled core , and 10 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through four Midterm Exams and a Final Exam, described more fully below.
 * __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
 * __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types
  - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
  - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
- - __Desmos Activity__ Students will create a Desmos account at [https://teacher.desmos.com](https://teacher.desmos.com) and create a lesson activity that illustrates one of the core objectives of the class.
+ - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the core objectives of the class.
 
 __Grading System__
 Math 181 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
@@ -64,7 +63,7 @@ The table for determining your grade is given below. For reference: there are a 
 * _Guided Practice_: “Pass” means that all questions to be submitted have been submitted before the
 deadline, with a goodfaith effort to be right. Correctness of the answers is not factored in.
 * _Daily Quiz_: “Pass” means a score of at least 8 out of 10.
-* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](images/Math181WeBWorK.pdf).
+* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf).
 All other descriptions of Passing, Mastery, Progressing, or Novice level work are explained in the Specifications for Student Work document, posted separately.
 
 #### To earn an A
@@ -98,4 +97,13 @@ All other descriptions of Passing, Mastery, Progressing, or Novice level work ar
 * Score at least 140 total points on WeBWorK, AND
 * Attain Mastery level on at least 10 problems and miniprojects (not necessarily all core), AND
 
-![A Grade Checklist](images/GradeChecklist.PNG)
+![A Grade Checklist](NSC-Math-181/images/GradeChecklist.PNG)
+
+__Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are seven overall categories of work you will do: Getting Started, Guided Practice, Daily Quizzes, WeBWorK Homework, WeBWorK Journal, Problems/Miniprojects, and Teaching Items.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up . Otherwise (more than one category at that lowest level) you will receive a “plus” grade at this level .
+
+* Example : A student who has passed Getting Started (passed 23 Guided Practice assignments (B level), 16 Daily Quizzes (C level), scored 188 points on WeBWorK (B level), passed two WeBWorK Journals (B level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 2 Teaching Items (B level) receives a B-- since the Daily Quizzes level was the lowest level but the only one at that level.
+![A Grade Checklist](NSC-Math-181/images/GradeChecklistExample1.PNG)
+* Example : A student who has passed Getting Started (passed 24 Guided Practice assignments (“B” level), 22 Daily Quizzes (“A” level), scored 206 points on WeBWorK (“A” level), passed three WeBWorK Journals (“A” level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (“B” level) and completed 3 Teaching Items (“B” level) receives a B+ since there were two components at a B level while all the others were at A level. 
+![A Grade Checklist](NSC-Math-181/images/GradeChecklistExample2.PNG)
+
+Please note that NSC does not award grades of A+ or D-.
