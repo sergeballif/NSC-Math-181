@@ -63,7 +63,7 @@ The table for determining your grade is given below. For reference: there are a 
 * _Guided Practice_: “Pass” means that all questions to be submitted have been submitted before the
 deadline, with a goodfaith effort to be right. Correctness of the answers is not factored in.
 * _Daily Quiz_: “Pass” means a score of at least 8 out of 10.
-* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf).
+* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](NSC-Math-181/images/Math181WeBWorK.pdf).
 All other descriptions of Passing, Mastery, Progressing, or Novice level work are explained in the Specifications for Student Work document, posted separately.
 
 #### To earn an A
@@ -97,4 +97,4 @@ All other descriptions of Passing, Mastery, Progressing, or Novice level work ar
 * Score at least 140 total points on WeBWorK, AND
 * Attain Mastery level on at least 10 problems and miniprojects (not necessarily all core), AND
 
-![A Grade Checklist](NSC-Math-181/GradeChart.PNG)
+![A Grade Checklist](NSC-Math-181/images/GradeChecklist.PNG)
