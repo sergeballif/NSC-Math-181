@@ -42,7 +42,7 @@ The work you do in the course has two purposes: To help you make sense of the co
 * __Guided Practice:__ These are structured activities that guide you (by questions that you answer) through reading, viewing, and other preparatory activities on new content.
 * __WeBWorK Homework:__ For each section there will be about a dozen homework problems to complete using WeBWorK.  These exercises focus on computational skill and basic conceptual  understanding and build upon your first contact with Calculus material you gain
 through Guided Practice.
-* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf)
+* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](images/Math181WeBWorK.pdf)
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
 * __Problems:__ The objectives of the course can be broken down into 16 distinct types of problems. Samples of these 16 types are posted to the Blackboard site. Within these 16 types are 6 types that are labeled core , and 10 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through four Midterm Exams and a Final Exam, described more fully below.
 * __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
@@ -63,7 +63,7 @@ The table for determining your grade is given below. For reference: there are a 
 * _Guided Practice_: “Pass” means that all questions to be submitted have been submitted before the
 deadline, with a goodfaith effort to be right. Correctness of the answers is not factored in.
 * _Daily Quiz_: “Pass” means a score of at least 8 out of 10.
-* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](NSC-Math-181/images/Math181WeBWorK.pdf).
+* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](images/Math181WeBWorK.pdf).
 All other descriptions of Passing, Mastery, Progressing, or Novice level work are explained in the Specifications for Student Work document, posted separately.
 
 #### To earn an A
@@ -97,4 +97,4 @@ All other descriptions of Passing, Mastery, Progressing, or Novice level work ar
 * Score at least 140 total points on WeBWorK, AND
 * Attain Mastery level on at least 10 problems and miniprojects (not necessarily all core), AND
 
-![A Grade Checklist](NSC-Math-181/images/GradeChecklist.PNG)
+![A Grade Checklist](images/GradeChecklist.PNG)
