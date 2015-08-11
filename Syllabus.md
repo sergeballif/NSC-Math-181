@@ -107,3 +107,30 @@ __Plus/Minus grading:__ In case not all of your attainments in the class are at 
 ![A Grade Checklist](images/GradeChecklistExample2.PNG)
 
 Please note that NSC does not award grades of A+ or D-.
+
+__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing or Mastery. Specifically: 
+
+* Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
+* **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
+* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 16 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
+* **Any miniproject submission that does not attain Mastery level can be revised and resubmitted for regrading.** You can submit up to one miniproject per week for regrading (in addition to any new submissions). Miniprojects that attain Progressing level can be resubmitted without penalty. Miniprojects assessed at Novice level can be resubmitted if you spend a token (below).
+* 
+_Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
+
+__Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
+
+* A revision of a Miniproject that was assessed at Novice level.
+* A third attempt of a Quiz.
+* A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline (which is 11:59pm EDT Sunday) and the new deadline will become 11:59pm EDT Monday. Submissions given after the extended deadline are not accepted.  
+
+Opportunities to earn additional tokens may be given during the semester.
+
+__Notes about this grading system:__ The advantages of this grading system are numerous:
+
+* It focuses course work away from point-scoring, which is counterproductive to learning, and focuses instead on whether or not your work meets professional quality standards.
+* It places control of your grade firmly in your hands so that you don’t have to “hope” for a grade.
+* It directly links the grade you earn to the amount and quality of work that you do.
+* It gives a final grade that communicates real information about your mastery of the subject.
+* Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
+ 
+The chief downside to this system is that it’s complicated. I will provide you with tools to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
