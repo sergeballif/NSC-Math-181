@@ -4,10 +4,10 @@ title: Math 181 Syllabus
 ---
 
 #### Contact Information
-__Instructor:__ Serge Ballif
-__Email:__ Please use the Piazza discussion board in the left panel of Canvas.
-__Telephone:__ (702) 992-2613
-__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
+__Instructor:__ Serge Ballif  
+__Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
+__Telephone:__ (702) 992-2613  
+__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help.  
 
 #### Course Learning Outcomes
 A successful MTH 201 will demonstrate evidence of mastery of each of the following learning  outcomes:
@@ -31,6 +31,7 @@ __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF downl
 [http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
 __Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
 __Software:__ The course uses three software tools:
+
 * [Canvas](http://nsc.instructure.com) is the course management system where our course home page is hosted.
 * [Desmos](https//desmos.com) , a free program for graphing functions and building models. Guided Practice assignments will be completed using Desmos.
 * WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
