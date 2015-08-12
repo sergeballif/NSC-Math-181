@@ -273,7 +273,7 @@ h4 {
   font-weight: bold;
   color: #303030;
   border-bottom:1px solid #d5000d;
-  padding-bottom:0px;
+  padding-bottom:-4px;
 }
 
 h5 {
