@@ -3,13 +3,13 @@ layout: default
 title: Math 181 Syllabus
 ---
 
-#### Contact Information
+#### + Contact Information
 __Instructor:__ Serge Ballif
 __Email:__ Please use the Piazza discussion board in the left panel of Canvas.
 __Telephone:__ (702) 992-2613
 __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
 
-#### Course Learning Outcomes
+#### + Course Learning Outcomes
 A successful MTH 201 will demonstrate evidence of mastery of each of the following learning  outcomes:
 
 * Perform basic limit, derivative, and integral symbolic computations correctly and fluently by hand.
@@ -26,7 +26,7 @@ A successful MTH 201 will demonstrate evidence of mastery of each of the followi
 * Communicate the results of a problem clearly, correctly, and in a manner appropriate to the audience.
 * Use a variety of computing technologies effectively to identify patterns, make deductions, visualize information, solve problems and communicate results of one’s work.
 
-#### Course Materials
+#### + Course Materials
 __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
 [http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
 __Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
@@ -36,7 +36,7 @@ __Software:__ The course uses three software tools:
 * WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
 
 
-#### Assigned Work
+#### + Assigned Work
 The work you do in the course has two purposes: To help you make sense of the concepts you are supposed to know, and to assess how well you have mastered the learning objectives of the course. These items of work include:
 
 * __Guided Practice:__ These are structured activities that guide you (by questions that you answer) through reading, viewing, and other preparatory activities on new content.
