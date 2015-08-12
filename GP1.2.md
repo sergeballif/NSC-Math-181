@@ -1,4 +1,8 @@
-# Guided Practice 1.2: The notion of limit	
+---
+layout: default
+title: Guided Practice 1.2
+---
+# Guided Practice 1.2: The Notion of Limit	
 
 ## Overview
 
