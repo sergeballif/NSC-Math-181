@@ -1,4 +1,4 @@
-# Specifications for Student Work in MTH 201
+# Specifications for Student Work in Math 181
 
 ## Specifications for Pass/No Pass work on Guided Practice, Concept Quizzes, and WeBWorK
 
@@ -16,7 +16,7 @@ Problems and Miniprojects differ from other work in the class in that they invol
 
 Attaining Mastery level on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
 
-1. __Computational error__. This occurs when a mathematical computation (calculus, algebra, arithmetic, etc.) is incorrectly carried out, either by hand or on a computer. For example: Given the equaton 3x = 9$ and arriving at $x = 2$ is a computational error. 
+1. __Computational error__. This occurs when a mathematical computation (calculus, algebra, arithmetic, etc.) is incorrectly carried out, either by hand or on a computer. For example: Given the equaton $3x = 9$ and arriving at $x = 2$ is a computational error. 
 2. __Logical error__. A logical error occurs when a conclusion is drawn erroneously from a set of information. For example: Given the equation $x^2 = 9$ and concluding that x must be positive is a logical error. In calculus, if you are given the derivative equation $f'(5) = 0$, and then conclude that f must have a local extreme value at $x = 5$, this is a logical error. 
 3. __Syntax error__. Syntax errors occur in one of two ways. First, they can occur as errors in English grammar, when the rules for language usage are not followed correctly, especially to the point that they obscure the thought process in the solution or introduce new errors. Second, they can occur as errors in the usage of mathematical notation, especially if the misuse of notation obscures the solution or introduces new errors. For example, in calculus the misuse of the pronoun "it" without clear reference to an antecedent is a particular problem (example: "It is increasing because it is positive"). In mathematical notation, syntax errors can be caused by switching variables mid-solution (for example, solving $3t = 9$ to get $x = 3$ is an error); by misusing function notation, mismatching parentheses, and a host of other possibilities. (Note: WeBWorK in particular has no mercy when it comes to syntax error.) 
 4. __Semantic error__. Semantic errors occur when the rules of the _grammar_ of a language are followed but the resulting statements are nonsensical or meaningless. For example, the statement "Colorless green ideas sleep furiously" is correct English syntax but has no meaning, therefore it represents a semantic error. In mathematics, a similarly semantically erroneous statement would be "The following graph can be factored". This is a semantic error because we don't "factor" graphs; we factor polynomials and integers, and to say we are "factoring a graph" is meaningless. 
@@ -56,3 +56,5 @@ The following specifications apply specifically to graphs of functions:
 Graphs that are included in a writeup for a Problem or Miniproject _must_ satisfy all of these stylistic elements in order to be marked at Mastery level unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct variable name.)
 
 For other graphical elements, such as diagrams or pictures, the element must be clearly labeled (preferably with a caption) and neatly rendered. 
+
+
