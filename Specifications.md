@@ -1,3 +1,8 @@
+---
+layout: default
+title: Specifications
+---
+
 # Specifications for Student Work in Math 181
 
 ## Specifications for Pass/No Pass work on Guided Practice, Concept Quizzes, and WeBWorK
