@@ -8,6 +8,35 @@ The rules for determining Pass/No Pass work on these three items are very simple
 + A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. 
 + WeBWorK problems are the one item in the course that are graded using points. Typically each problem is worth 1 point, awarded in full if the answer is correct and 0 otherwise. (Some WeBWorK questions that involve multiple items to answer on a single question will allow partial credit.) 
 
+## Specifications for work on WeBWorK Journal
+__Instructions__
++ Start each new WeBWorK assignment on a new page.  Have every page of the journal labeled at the top with the date the problems on that page are due.
++ Clearly enumerate each problem and provide a brief summary of the problem statement.  That is, it is not sufficient to simply write ``\#3.''  Rather, you should write (for example) 
+	>``\#3. Let $f(x) = 3e^{5x^2}$.  Find an equation for the tangent line at the point where $x = 1$.''    
+
+	This is so that (a) you are certain you've read the problem statement carefuly, and (b) you have a record of the statement in your work to return to when studying for exams.
+* Provide sufficient work to demonstrate the full reasoning behind your solution.  The work that leads to an answer is *even more important than* the final answer itself.  This is important not only for your own understanding, but also for future studying for exams.
+* Clearly circle your answer that you input in WeBWorK.  Indicate clearly on your paper if the answer was accepted as correct or not in WeBWorK but putting a checkmark (correct) next to your circled answer. 
+
+I will collect homework journals from each student in the class at each of the three in-class exams. I will choose four problems at random from your journal and assess each on a 5-point scale:
++ (5 points) your response is complete, easy to find and follow, and adheres to the expectations listed above.
++ (4 points) your response is complete, but the work is difficult to find or follow, or fails to adhere to at least one of the expectations stated above.
++ (3 points) your response is complete, but the work is difficult to find or follow, and fails to adhere to more than one of the expectations stated above.	
++ (0 points) the problem was not completed.
+
+In addition to these 4 5-point grades on 4 random problems, you will receive an overall score out of 10 points based on my impression of your WeBWorK journal.  You should interpret that score of 10, 9, 8, 7, 6 as reflecting an A+, A, B, C, D scale.   Thus, your journal will be graded three times during the semester, each time for a grade of 30 points. 
+
+__A Passing grade will be assigned to WeBWorK Journals that have obtained at least 25 out of 30 points.__
+
+
+__Additional Suggestions__  You will be well-served by being organized and timely in keeping your homework journal and submitting WeBWorK assignments. 
+
+ I encourage you to keep your homework journal in a 3-ring binder, using loose-leaf paper. You should view it as a way to keep yourself organized and on top of the weekly WeBWorK assignments.  
+
+I also urge you to begin working on WeBWorK problems soon after they post and to strive to complete them well in advance of the deadline.  This will offer you the chance to ask questions about problems that you struggle with before the problem set closes.
+
+The number one way to be successful in mathematics is to do a lot of problems, and to do them in a way where you strive to achieve deep, personal understanding of how the problems are solved.
+
 ## Specifications for work on Problems and Miniprojects
 
 Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. Recall that work on these items is assessed at one of three levels -- _Mastery_, _Progressing_, or _Novice_. 
@@ -35,8 +64,8 @@ In addition to the above, here are some special rules for other aspects of your 
 
 In Problems and Miniprojects it is crucial that you __not only give an answer or a conclusion but also clear, complete, and correct work that backs up your answer or conclusion__. Submitted work that consists only of answers will be considered a "significantly incomplete" in the language of the syllabus.
 
-+ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard MTH 201 audience that clearly supports your answer. 
-+ For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard MTH 201 audience that clearly supports your conclusion. 
++ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer. 
++ For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your conclusion. 
 + Answers or conclusions that are given that have only minimal supporting work, or for which the relationship between the answer/conclusion and the supporting work is tenuous, illogical, or unclear will be marked at Novice level and returned without further feedback. 
 
 ### Specifications for formatting submissions
