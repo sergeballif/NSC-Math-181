@@ -70,8 +70,8 @@ In Problems and Miniprojects it is crucial that you __not only give an answer or
 
 ### Specifications for formatting submissions
 
-+ Submissions of Problems and Miniprojects must be either typed or neatly handwritten and submitted via Blackboard as PDF files. Files that are submitted in some other form besides PDF will be marked at Novice level and returned to the author without feedback. 
-+ Each Exam or Miniproject will include a cover page that states the file name to use when submitting it. Files that are submitted with the incorrect file name will be marked at Novice level and returned to the author without feedback. 
++ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as PDF files. Files that are submitted in some other form besides PDF will be marked at Novice level and returned to the author without feedback. 
++ Each Miniproject will include a cover page that states the file name to use when submitting it. Files that are submitted with the incorrect file name will be marked at Novice level and returned to the author without feedback. 
 
 ### Specifications for graphical elements
 
