@@ -25,9 +25,17 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script>
+  
+  // Document ready tells the script to fire only once the entire page is loaded. 
     $(document).ready(function(){
+  
+  // The next line tells the mouse cursor to becom a pointer when hovering over the H2 elements in the Markdown. 
     $('.markdown-block .sqs-block-content h4').css('cursor','pointer');
+  
+  // The next line initialises the open/close areas by hiding the content  
     $(".markdown-block .sqs-block-content h4").nextUntil("h4").slideToggle();
+  
+  //Finally, there is a function that listens for a click on an H2 and either shows or hides its content depending on its current state.  
     $(".markdown-block .sqs-block-content h4").click(function() {$(this).nextUntil("h4").slideToggle();});
     });
     </script>
