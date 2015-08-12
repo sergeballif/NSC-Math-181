@@ -25,7 +25,7 @@ To gain proficiency in the learning objectives, use the following resources. You
 
 __Textbook__: In _Active Calculus_, read Section 1.2. Make sure to read actively, working through examples and activities as you go. 
 
-__Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus). 
+__Video__: Watch the following videos at the GVSU YouTube playlist (http://bit.ly/GVSUCalculus). 
 
 - [Limits](http://www.youtube.com/watch?v=GZzJOAUOqLI) (6:02)
 - [Limits of functions using graphing tools](http://www.youtube.com/watch?v=5TFu_sh_orM) (6:27)
