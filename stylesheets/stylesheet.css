@@ -273,10 +273,8 @@ h4 {
   font-weight: bold;
   color: #303030;
   border-bottom:1px solid #d5000d;
-  padding-bottom:3px;
+  padding-bottom:0px;
 }
-h1
-
 
 h5 {
   font-size: 1em;
