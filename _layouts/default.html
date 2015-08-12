@@ -22,6 +22,15 @@
     });
 </script>
 <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+    $('.markdown-block .sqs-block-content h4').css('cursor','pointer');
+    $(".markdown-block .sqs-block-content h4").nextUntil("h4").slideToggle();
+    $(".markdown-block .sqs-block-content h4").click(function() {$(this).nextUntil("h4").slideToggle();});
+    });
+    </script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
