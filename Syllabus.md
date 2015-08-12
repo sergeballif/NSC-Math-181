@@ -36,7 +36,7 @@ __Software:__ The course uses three software tools:
 * WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
 
 
-#### + Assigned Work
+#### - Assigned Work
 The work you do in the course has two purposes: To help you make sense of the concepts you are supposed to know, and to assess how well you have mastered the learning objectives of the course. These items of work include:
 
 * __Guided Practice:__ These are structured activities that guide you (by questions that you answer) through reading, viewing, and other preparatory activities on new content.
