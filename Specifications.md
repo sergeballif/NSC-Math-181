@@ -42,7 +42,7 @@ I also urge you to begin working on WeBWorK problems soon after they post and to
 
 The number one way to be successful in mathematics is to do a lot of problems, and to do them in a way where you strive to achieve deep, personal understanding of how the problems are solved.
 
-## Specifications for work on Problems and Miniprojects
+## Specifications for work on Problems, Teaching Items, and Miniprojects
 
 Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. Recall that work on these items is assessed at one of three levels -- _Mastery_, _Progressing_, or _Novice_. 
 
