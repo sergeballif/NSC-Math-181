@@ -46,7 +46,7 @@ The number one way to be successful in mathematics is to do a lot of problems, a
 
 Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. Recall that work on these items is assessed at one of three levels -- _Mastery_, _Progressing_, or _Novice_. 
 
-### General rules for Mastery level work on Problems and Miniprojects
+### General rules for Mastery level work on Problems, Teaching Items, and Miniprojects
 
 Attaining Mastery level on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
 
@@ -69,7 +69,8 @@ In addition to the above, here are some special rules for other aspects of your 
 
 In Problems and Miniprojects it is crucial that you __not only give an answer or a conclusion but also clear, complete, and correct work that backs up your answer or conclusion__. Submitted work that consists only of answers will be considered a "significantly incomplete" in the language of the syllabus.
 
-+ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer. 
++ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer.
++ For _Teaching Items_ your explanations and presentation should be at the level of the instructor or a competent tutor. The explanations and details should be clear to the standard Math 181 audience.
 + For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your conclusion. 
 + Answers or conclusions that are given that have only minimal supporting work, or for which the relationship between the answer/conclusion and the supporting work is tenuous, illogical, or unclear will be marked at Novice level and returned without further feedback. 
 
