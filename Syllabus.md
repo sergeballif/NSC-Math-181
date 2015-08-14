@@ -136,7 +136,7 @@ __Notes about this grading system:__ The advantages of this grading system are n
  
 The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleGradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
-##What are the consequences of missing class?
+## What are the consequences of missing class?
 
 If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
 
