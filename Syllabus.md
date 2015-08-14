@@ -135,3 +135,10 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
  
 The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleGradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+
+##What are the consequences of missing class?
+
+If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
+
+Note that the style of this class is a partially flipped class, so you will do much of your learning by reading and watching videos outside of class. Much of each class period will be devoted to applying the principles and practicing the techniques that will be acquired in the out-of-class reading. You probably don’t want to miss out on the classroom discussion and activities. If you must miss class, then be sure to complete the Guided Practice prior to class.
+
