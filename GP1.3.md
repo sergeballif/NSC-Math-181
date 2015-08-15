@@ -1,4 +1,7 @@
-
+---
+layout: KaTeX
+title: Guided Practice 1.3
+---
 
 
 $\tan\left(a+b\right)=\dfrac{\tan a + \tan b}{1 - \tan a\tan b}$
