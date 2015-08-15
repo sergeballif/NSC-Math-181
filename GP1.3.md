@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: KaTeX
 title: Guided Practice 1.3
 ---
 
