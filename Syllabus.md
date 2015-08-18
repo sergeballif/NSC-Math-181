@@ -10,7 +10,7 @@ __Telephone:__ (702) 992-2613
 __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
 
 ## Course Learning Outcomes
-A successful MTH 201 will demonstrate evidence of mastery of each of the following learning  outcomes:
+A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
 
 * Perform basic limit, derivative, and integral symbolic computations correctly and fluently by hand.
 * Compute the tangent line to a function at a specific point on its graph.
