@@ -10,7 +10,7 @@ __Telephone:__ (702) 992-2613
 __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
 
 ## Course Learning Outcomes
-A successful MTH 201 will demonstrate evidence of mastery of each of the following learning  outcomes:
+A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
 
 * Perform basic limit, derivative, and integral symbolic computations correctly and fluently by hand.
 * Compute the tangent line to a function at a specific point on its graph.
@@ -45,7 +45,7 @@ The work you do in the course has two purposes: To help you make sense of the co
 through Guided Practice.
 * __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf)
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Problems:__ The objectives of the course can be broken down into 16 distinct types of problems. Samples of these 16 types are posted to the Blackboard site. Within these 16 types are 6 types that are labeled core , and 10 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through four Midterm Exams and a Final Exam, described more fully below.
+* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 17 types are posted to the Blackboard site. Within these 17 types are 6 types that are labeled core , and 10 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through four Midterm Exams and a Final Exam, described more fully below.
 * __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
 * __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types
  - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
@@ -113,7 +113,7 @@ __Revisions:__ Instead of partial credit, you will receive numerous opportunitie
 
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
-* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 16 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
+* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 17 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
 * **Any miniproject submission that does not attain Mastery level can be revised and resubmitted for regrading.** You can submit up to one miniproject per week for regrading (in addition to any new submissions). Miniprojects that attain Progressing level can be resubmitted without penalty. Miniprojects assessed at Novice level can be resubmitted if you spend a token (below).
 * 
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
@@ -135,3 +135,10 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
  
 The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleGradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+
+## What are the consequences of missing class?
+
+If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
+
+Note that the style of this class is a partially flipped class, so you will do much of your learning by reading and watching videos outside of class. Much of each class period will be devoted to applying the principles and practicing the techniques that will be acquired in the out-of-class reading. You probably don’t want to miss out on the classroom discussion and activities. If you must miss class, then be sure to complete the Guided Practice prior to class.
+
