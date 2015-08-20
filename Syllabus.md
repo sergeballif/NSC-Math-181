@@ -104,7 +104,7 @@ __Plus/Minus grading:__ In case not all of your attainments in the class are at 
 
 * Example : A student who has passed Getting Started passed 23 Guided Practice assignments (B level), 16 Daily Quizzes (C level), scored 188 points on WeBWorK (B level), passed two WeBWorK Journals (B level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 2 Teaching Items (B level) receives a B-- since the Daily Quizzes level was the lowest level but the only one at that level.
 ![A Grade Checklist](images/GradeChecklistExample1.PNG)
-* Example : A student who has passed Getting Started passed 24 Guided Practice assignments (“B” level), 22 Daily Quizzes (“A” level), scored 206 points on WeBWorK (“A” level), passed three WeBWorK Journals (“A” level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (“B” level) and completed 3 Teaching Items (“B” level) receives a B+ since there were two components at a B level while all the others were at A level. 
+* Example : A student who has passed Getting Started passed 24 Guided Practice assignments (B level), 22 Daily Quizzes (A level), scored 206 points on WeBWorK (A level), passed three WeBWorK Journals (A level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 3 Teaching Items (B level) receives a B+ since there were two components at a B level while all the others were at A level. 
 ![A Grade Checklist](images/GradeChecklistExample2.PNG)
 
 Please note that NSC does not award grades of A+ or D-.
