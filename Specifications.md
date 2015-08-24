@@ -88,7 +88,7 @@ The following specifications apply specifically to graphs of functions:
 + Both axes should include tick marks that are sufficiently labeled to show the scaling. Choose scale increments for both axes that are easy to read. 
 + If you are graphing more than one function on the same set of axes, each individual function must be clearly labeled. 
 
-Graphs that are included in a writeup for a Problem or Miniproject _must_ satisfy all of these stylistic elements in order to be marked at Mastery level unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct variable name.)
+Graphs that are included in a writeup for a Problem, Teaching Item, or Miniproject _must_ satisfy all of these stylistic elements in order to be marked at Mastery level unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct variable name.)
 
 For other graphical elements, such as diagrams or pictures, the element must be clearly labeled (preferably with a caption) and neatly rendered. 
 
