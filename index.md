@@ -66,6 +66,6 @@ title: Math 181 Schedule
 | Dec 2 	| [5.2](/NSC-Math-181/GP4.4.html)  |  5.1           	|
 | Dec 4 	| [5.3](/NSC-Math-181/GP4.4.html)  |  5.2, [Miniproject 8](/NSC-Math-181/CoreLearning/Math181Miniproject8.pdf)           	|
 |     	|   **Week 16**      	|                 	|  
-| Nov 7 	| 5.3 continued  |             	|
-| Dec 9 	| Review Day  |  5.3           	|
-| Dec 11 	| Final Exam  |             	|
+| Nov 7 	| Review Day  |  5.3           	|
+| Dec 9 	| Final Exam |           	|
+| Dec 11 	|   |             	|
