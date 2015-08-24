@@ -43,14 +43,14 @@ The work you do in the course has two purposes: To help you make sense of the co
 * __Guided Practice:__ These are structured activities that guide you (by questions that you answer) through reading, viewing, and other preparatory activities on new content.
 * __WeBWorK Homework:__ For each section there will be about a dozen homework problems to complete using WeBWorK.  These exercises focus on computational skill and basic conceptual  understanding and build upon your first contact with Calculus material you gain
 through Guided Practice.
-* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the guidelines of the document [WeBWorK Homework Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf)
+* __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the specification guidelines.
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 17 types are posted to the Blackboard site. Within these 17 types are 6 types that are labeled core , and 10 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through four Midterm Exams and a Final Exam, described more fully below.
+* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 17 types are posted to the Blackboard site. Within these 17 types are 6 types that are labeled core , and 11 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
 * __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
-* __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types
- - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
- - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
- - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the core objectives of the class.
+* __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types:
+  - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
+  - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
+  - __Desmos Activity__ Students will create a Desmos account at [https://teacher.desmos.com](https://teacher.desmos.com) and create a lesson activity that illustrates one of the core objectives of the class.
 
 __Grading System__
 Math 181 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
@@ -59,13 +59,7 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate document, and you should make yourself intimately familiar with that document. Your Guided Practice, WeBWorK Homework, WeBWorK Journals, and Daily Quizzes are graded on a Pass/No Pass basis; Problems, Miniprojects, and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. “Pass” means the following:
-
-* _Guided Practice_: “Pass” means that all questions to be submitted have been submitted before the
-deadline, with a good-faith effort to be right. Correctness of the answers is not factored in.
-* _Daily Quiz_: “Pass” means a score of at least 8 out of 10.
-* _WeBWorK Journal_: “Pass” means a score of at least 25 out of 30 as outlined in the document [WeBWorK Journal Guidelines](NSC-Math-181/Math181WeBWorK.pdf).
-All other descriptions of Passing, Mastery, Progressing, or Novice level work are explained in the Specifications for Student Work document, posted separately.
+The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the[Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
 
 #### To earn an A
 * Complete the Getting Started assignment in week 1, AND
@@ -122,7 +116,7 @@ __Tokens:__ Each student will be given five “tokens” at the beginning of the
 
 * A revision of a Miniproject that was assessed at Novice level.
 * A third attempt of a Quiz.
-* A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline (which is 11:59pm EDT Sunday) and the new deadline will become 11:59pm EDT Monday. Submissions given after the extended deadline are not accepted.  
+* A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
 
 Opportunities to earn additional tokens may be given during the semester.
 
