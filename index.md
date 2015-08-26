@@ -24,7 +24,7 @@ title: Math 181 Schedule
 |     	|   **Week 5**      	|                 	|                	
 | Sep 21 	| Midterm 1  |             	|
 | Sep 23 		| [2.1](/NSC-Math-181/GP2.1.html)  |             	|
-| Sep 25 		| [2.2](/NSC-Math-181/GP2.2.html)  | 2.1, [Teaching Item 1](/NSC-Math-181/CoreLearning/Math181TeachingItem1.pdf)            	|    
+| Sep 25 		| [2.2](/NSC-Math-181/GP2.2.html)  | 2.1, [Teaching Item 1](/NSC-Math-181/TeachingItems.html)            	|    
 |     	|   **Week 6**      	|                 	|                	
 | Sep 28 	| [2.3](/NSC-Math-181/GP2.3.html)  | 2.2            	|
 | Sep 30 		| [2.4](/NSC-Math-181/GP2.4.html)  | 2.3            	|
