@@ -2,6 +2,7 @@
 layout: default
 title: Guided Practice 1.4
 ---
+
 Guided Practice 1.4: The derivative function
 
 ## Overview
