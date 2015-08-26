@@ -26,7 +26,12 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 * Communicate the results of a problem clearly, correctly, and in a manner appropriate to the audience.
 * Use a variety of computing technologies effectively to identify patterns, make deductions, visualize information, solve problems and communicate results of one’s work.
 
+## Quick Grade Summary
+Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
+
 <img style="max-width:100%" src="//cdn.thinglink.me/api/image/692942659517415426/1024/10/scaletowidth#tl-692942659517415426;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+
+The rest of the syllabus explains more details about what these categories are.
 
 ## Course Materials
 __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
@@ -61,7 +66,7 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate document, and you should make yourself intimately familiar with that document. Your Guided Practice, WeBWorK Homework, WeBWorK Journals, and Daily Quizzes are graded on a Pass/No Pass basis; Problems, Miniprojects, and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the[Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
+The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
 
 #### To earn an A
 * Complete the Getting Started assignment in week 1, AND
