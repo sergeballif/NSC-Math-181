@@ -26,6 +26,8 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 * Communicate the results of a problem clearly, correctly, and in a manner appropriate to the audience.
 * Use a variety of computing technologies effectively to identify patterns, make deductions, visualize information, solve problems and communicate results of one’s work.
 
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/692942659517415426/1024/10/scaletowidth#tl-692942659517415426;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+
 ## Course Materials
 __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
 [http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
