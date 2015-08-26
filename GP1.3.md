@@ -2,7 +2,7 @@
 layout: default
 title: Guided Practice 1.3
 ---
-# Guided Practice 1.3:	
+# Guided Practice 1.3:	The Derivative of a Function at a Point
 
 ## Overview
 
