@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Math 181 Syllabus
+published: true
 ---
+
 
 ## Contact Information
 __Instructor:__ Serge Ballif  
@@ -121,8 +123,9 @@ _Note_: Guided Practice assignments may not be revised or submitted late. These 
 
 __Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
 
-* A revision of a Miniproject that was assessed at Novice level.
-* A third attempt of a Quiz.
+* A revision of a Miniproject that was assessed at Novice level (within one week of receiving the grade).
+* A revision of a WeBWorK journal (within one week of receiving the grade)
+* A third attempt of a Quiz (any time during the semester though the second attempt must be within a week of taking the first quiz).
 * A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
 
 Opportunities to earn additional tokens may be given during the semester.
@@ -142,4 +145,3 @@ The chief downside to this system is that it’s complicated. You can download m
 If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
 
 Note that the style of this class is a partially flipped class, so you will do much of your learning by reading and watching videos outside of class. Much of each class period will be devoted to applying the principles and practicing the techniques that will be acquired in the out-of-class reading. You probably don’t want to miss out on the classroom discussion and activities. If you must miss class, then be sure to complete the Guided Practice prior to class.
-
