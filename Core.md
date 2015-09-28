@@ -22,3 +22,4 @@ Some of the learning outcomes are designated as __CORE__ outcomes. To demonstrat
  - [Miniproject 1](/NSC-Math-181/CoreLearning/Math181Miniproject1.pdf)  
  - [Miniproject 2](/NSC-Math-181/CoreLearning/Math181Miniproject2.pdf)  
  - [Miniproject 3](/NSC-Math-181/CoreLearning/Math181Miniproject3.pdf)  
+ - [Miniproject 4](/NSC-Math-181/CoreLearning/Math181Miniproject4.pdf) 
