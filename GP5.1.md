@@ -27,7 +27,7 @@ __Advanced objectives__: The following objectives are the subject of class discu
 
 To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following. 
 
-__Textbook__: In _Active Calculus_, read Section 4.4. Make sure to read actively, working through examples and activities as you go. 
+__Textbook__: In _Active Calculus_, read Section 5.1. Make sure to read actively, working through examples and activities as you go. 
 
 __Video__: Watch the following videos. 
 
