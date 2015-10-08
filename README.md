@@ -10,7 +10,7 @@ The course also uses specifications grading, which is described [here](http://ww
 
 The materials in this repo correspond to the chapters and sections in the textbook [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Download.html) by Matt Boelkins, a free and open source calculus text. 
 
-Over 9 hours of video screencasts were created for this course and are housed [at the GVSU Mathematics Department YouTube channel](http://bit.ly/GVSUCalculus). 
+Over 9 hours of video screencasts were created by Grand Valley State University to go along with the textbook. The videos for the course and are housed [at the GVSU Mathematics Department YouTube channel](http://bit.ly/GVSUCalculus). 
 
 All materials are licensed under a [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/us/). 
 
