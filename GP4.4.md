@@ -7,7 +7,7 @@ title: Guided Practice 4.4
 
 ## Overview
 
-In our final section of the semester, we examine the central mathematical concept of the course: **The Fundamental Theorem of Calculus** ("FTC"). The FTC unifies the concept of the definite integral with the concept of the derivative by giving a way to calculate a definite integral in terms of an antiderivative, instead of using geometry or a Riemann sum. In addition to learning to use the FTC and antiderivatives to calculate definite integrals, we will look at the **Total Change Theorem** (sometimes referred to as the "Net" Change Theorem) that gives a platform for applying definite integrals to a wide variety of real-world problems. 
+In our final section of Chapter 4, we examine the central mathematical concept of the course: **The Fundamental Theorem of Calculus** ("FTC"). The FTC unifies the concept of the definite integral with the concept of the derivative by giving a way to calculate a definite integral in terms of an antiderivative, instead of using geometry or a Riemann sum. In addition to learning to use the FTC and antiderivatives to calculate definite integrals, we will look at the **Total Change Theorem** (sometimes referred to as the "Net" Change Theorem) that gives a platform for applying definite integrals to a wide variety of real-world problems. 
 
 
 ## Learning objectives
