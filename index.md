@@ -48,7 +48,7 @@ title: Math 181 Schedule
 |     	|   **Week 11**      	|                 	|                	
 | Nov 2 	| [3.4](/NSC-Math-181/GP3.4.html)  |  3.3           	|
 | Nov 4 		| 3.4 continued  |             	|
-| Nov 6 	| [3.5](/NSC-Math-181/GP3.4.html)  |  3.4, [Miniproject 6](/NSC-Math-181/CoreLearning/Math181Miniproject6.pdf)           	|
+| Nov 6 	| [3.5](/NSC-Math-181/GP3.5.html)  |  3.4, [Miniproject 6](/NSC-Math-181/CoreLearning/Math181Miniproject6.pdf)           	|
 |     	|   **Week 12**      	|                 	|                	
 | Nov 9 	| 3.5 continued  |          	|
 | Nov 11 		| Veteran's Day  |              	|
