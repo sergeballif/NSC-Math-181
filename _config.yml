@@ -1,3 +1,9 @@
 name: Math 181
 markdown: kramdown
 baseurl: sergeballif.github.io/NSC-Math-181
+
+title: Nsc-math-181
+description: Guided Practice Assignments for Calculus 1
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
