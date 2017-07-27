@@ -44,9 +44,9 @@ The number one way to be successful in mathematics is to do a lot of problems, a
 
 ## Specifications for work on Problems, Teaching Items, and Miniprojects
 
-Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. Recall that work on these items is assessed at one of three levels -- _Mastery_, _Progressing_, or _Novice_. 
+Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. 
 
-### General rules for Mastery level work on Problems, Teaching Items, and Miniprojects
+### General rules for Passing work on Problems, Teaching Items, and Miniprojects
 
 Attaining Mastery level on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
 
