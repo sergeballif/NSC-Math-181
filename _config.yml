@@ -1,6 +1,7 @@
 name: Math 181
 markdown: kramdown
-baseurl: sergeballif.github.io/NSC-Math-181
+url: sergeballif.github.io
+baseurl: NSC-Math-181
 
 title: Nsc-math-181
 description: Guided Practice Assignments for Calculus 1
@@ -15,7 +16,7 @@ name: Math 181
 markdown: kramdown
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: sergeballif.github.io/NSC-Math-181
+base_url: NSC-Math-181
 sass:
   sass_dir: _sass
   style: :compressed
@@ -41,5 +42,3 @@ links:
 about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
-
-theme: jekyll-theme-dinky
