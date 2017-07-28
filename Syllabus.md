@@ -14,16 +14,16 @@ __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my of
 ## Course Learning Outcomes
 A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
 
-1. Calculate and Interpret Average Rates of Change
+1. Calculate and Interpret Average Rates of Change<br>
     * Numerically calculate an average rate of change from context.
     * Use correct units.
     * Explain the meaning of an average rate of change in context.
     * Describe the visual representation of average rates of change.
 
 2. Approximating Instantaneous Rates of Change
-    * Accurately describe average rates of change as approximations for the derivative (instantaneous rate of change).
-    * Determine and explain when average rates of change are under or overestimates.
-    * Demonstrate
+    - Accurately describe average rates of change as approximations for the derivative (instantaneous rate of change).
+    - Determine and explain when average rates of change are under or overestimates.
+    - Demonstrate
 
 3. Linearization and Approximations
     * Use the derivative to approximate values of a function.
