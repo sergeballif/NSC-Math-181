@@ -14,78 +14,129 @@ __Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my of
 ## Course Learning Outcomes
 A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
 
-1. Calculate and Interpret Average Rates of Change<br>
-    * Numerically calculate an average rate of change from context.
-    * Use correct units.
-    * Explain the meaning of an average rate of change in context.
-    * Describe the visual representation of average rates of change.
-
-2. Approximating Instantaneous Rates of Change
-    - Accurately describe average rates of change as approximations for the derivative (instantaneous rate of change).
-    - Determine and explain when average rates of change are under or overestimates.
-    - Demonstrate
-
-3. Linearization and Approximations
-    * Use the derivative to approximate values of a function.
-    * Recognize when a function is not locally linear and include a prcise explanation of why. 
-
-4. Interpretation of the Derivative
-   * Describe the units of the derivative.
-   * Explain the meaning of values of the derivative in context (with complete sentences).
-   * Interpret the value of the derivative as the slope of the tangent line at a point. 
-
-5. Relationships between a function and its derivative. 
-   * Given a function, be able to sketch the derivative function.
-   * Explain the relationships between functions and their derivative (using words like increasing, decreasing, positive, negative, concave up, and conecave down) using tables of data, graphs, or functinos.
-   * Use the derivative to find local minimum and maximum values and interpret these points in context.
-
-6. Basic Derivative Rules
-   * Calculate the derivatives of polynomials, exponential functions, logarithmic functions, and trigonometric functions.
-
-7. Product and Quotient Rule
-   * Calculate the derivative of products or quotients of functions
-   * Symbolically apply the product and quotient rules when explicit functions are not given.
-  
-8. Chain Rule
-   * Calculate the derivatives of compositions of functions
-   * Find and interpret derivatives of implicit functions.
-
-9. Intervals of Increase and Decrease
-    * Identify intervals where a function is increasing or decreasing.
-    * Use a calculus-based test to find minimum and maximum values of a function.
-
-10. Concavity and Inflection Points
-    * Identify intervals where a function is concave up or concave down.
-    * Find and interpret inflection points in the context of a problem. 
-    * Use a calculus-based test to justify conclusions
-
-11. Related Rates
-    * Describe the relationship between the rate of change of a composition of functions and the rates of change of the composed functions.
-    * Find the rate of change of a quantity by knowing the rate of change of a related quantity.
-    * Accurately summarize a solution to a related rates problem with a sentence that includes units.
-
-12. Optimization
-    * Use the derivative to find minimum and maximum values of a function in context.
-    * Find reasonable domains for functinos in context, and find the maxima and minima on these restricted domains. 
-    * Accurately summarize and interpret a solution to an optimization problem with a sentence (including units).
-
-13. Compute and Interpret Riemann Sums
-    * Use Riemann Sums to approximate accumulations in context.
-    * Use correct units.
-    * Explain the meaning of a Riemann sum calculation in context and any simplifying assumptions made to construct the sum.
-
-14. Meaning of the Definite Integral
-    * Construct and expression for the definite integral.
-    * Explain the meaning of a definite integral in context.
-    * Interpret a definite integral as an area.
-
-15. Evaluate Definite Integrals.
-    * Calculate the antiderivative of a function using the reverse of basic derivative rules.
-    * Calculate the value of a definite integral using the Fundamental Theorem of Calculus.
-
-16. Antiderivatives
-    * Find antiderivatives of power functions, exponential functions, and trigonometric functions.
-    * Use $u$-substitution to evaluate integrals. 
+<ol>
+<li>
+<p>Calculate and Interpret Average Rates of Change&lt;br&gt;</p>
+<ul>
+<li>Numerically calculate an average rate of change from context.</li>
+<li>Use correct units.</li>
+<li>Explain the meaning of an average rate of change in context.</li>
+<li>Describe the visual representation of average rates of change.</li>
+</ul>
+</li>
+<li>
+<p>Approximating Instantaneous Rates of Change</p>
+<ul>
+<li>Accurately describe average rates of change as approximations for the derivative (instantaneous rate of change).</li>
+<li>Determine and explain when average rates of change are under or overestimates.</li>
+<li>Demonstrate</li>
+</ul>
+</li>
+<li>
+<p>Linearization and Approximations</p>
+<ul>
+<li>Use the derivative to approximate values of a function.</li>
+<li>Recognize when a function is not locally linear and include a prcise explanation of why.</li>
+</ul>
+</li>
+<li>
+<p>Interpretation of the Derivative</p>
+<ul>
+<li>Describe the units of the derivative.</li>
+<li>Explain the meaning of values of the derivative in context (with complete sentences).</li>
+<li>Interpret the value of the derivative as the slope of the tangent line at a point.</li>
+</ul>
+</li>
+<li>
+<p>Relationships between a function and its derivative.</p>
+<ul>
+<li>Given a function, be able to sketch the derivative function.</li>
+<li>Explain the relationships between functions and their derivative (using words like increasing, decreasing, positive, negative, concave up, and conecave down) using tables of data, graphs, or functinos.</li>
+<li>Use the derivative to find local minimum and maximum values and interpret these points in context.</li>
+</ul>
+</li>
+<li>
+<p>Basic Derivative Rules</p>
+<ul>
+<li>Calculate the derivatives of polynomials, exponential functions, logarithmic functions, and trigonometric functions.</li>
+</ul>
+</li>
+<li>
+<p>Product and Quotient Rule</p>
+<ul>
+<li>Calculate the derivative of products or quotients of functions</li>
+<li>Symbolically apply the product and quotient rules when explicit functions are not given.</li>
+</ul>
+</li>
+<li>
+<p>Chain Rule</p>
+<ul>
+<li>Calculate the derivatives of compositions of functions</li>
+<li>Find and interpret derivatives of implicit functions.</li>
+</ul>
+</li>
+<li>
+<p>Intervals of Increase and Decrease</p>
+<ul>
+<li>Identify intervals where a function is increasing or decreasing.</li>
+<li>Use a calculus-based test to find minimum and maximum values of a function.</li>
+</ul>
+</li>
+<li>
+<p>Concavity and Inflection Points</p>
+<ul>
+<li>Identify intervals where a function is concave up or concave down.</li>
+<li>Find and interpret inflection points in the context of a problem.</li>
+<li>Use a calculus-based test to justify conclusions</li>
+</ul>
+</li>
+<li>
+<p>Related Rates</p>
+<ul>
+<li>Describe the relationship between the rate of change of a composition of functions and the rates of change of the composed functions.</li>
+<li>Find the rate of change of a quantity by knowing the rate of change of a related quantity.</li>
+<li>Accurately summarize a solution to a related rates problem with a sentence that includes units.</li>
+</ul>
+</li>
+<li>
+<p>Optimization</p>
+<ul>
+<li>Use the derivative to find minimum and maximum values of a function in context.</li>
+<li>Find reasonable domains for functinos in context, and find the maxima and minima on these restricted domains.</li>
+<li>Accurately summarize and interpret a solution to an optimization problem with a sentence (including units).</li>
+</ul>
+</li>
+<li>
+<p>Compute and Interpret Riemann Sums</p>
+<ul>
+<li>Use Riemann Sums to approximate accumulations in context.</li>
+<li>Use correct units.</li>
+<li>Explain the meaning of a Riemann sum calculation in context and any simplifying assumptions made to construct the sum.</li>
+</ul>
+</li>
+<li>
+<p>Meaning of the Definite Integral</p>
+<ul>
+<li>Construct and expression for the definite integral.</li>
+<li>Explain the meaning of a definite integral in context.</li>
+<li>Interpret a definite integral as an area.</li>
+</ul>
+</li>
+<li>
+<p>Evaluate Definite Integrals.</p>
+<ul>
+<li>Calculate the antiderivative of a function using the reverse of basic derivative rules.</li>
+<li>Calculate the value of a definite integral using the Fundamental Theorem of Calculus.</li>
+</ul>
+</li>
+<li>
+<p>Antiderivatives</p>
+<ul>
+<li>Find antiderivatives of power functions, exponential functions, and trigonometric functions.</li>
+<li>Use $u$-substitution to evaluate integrals.</li>
+</ul>
+</li>
+</ol>
 
 ## Quick Grade Summary
 Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
