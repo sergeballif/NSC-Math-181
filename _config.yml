@@ -10,13 +10,6 @@ show_downloads: true
 
 
 
-##The website title
-name: Math 181
-##Markdown processor
-markdown: kramdown
-
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: NSC-Math-181
 sass:
   sass_dir: _sass
   style: :compressed
