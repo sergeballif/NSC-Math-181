@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    list-style: none;
+    list-style: circle;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -40,9 +40,9 @@ nav ul li, footer ul li {
 body {
 	line-height: 1;
 }
-/*ol, ul {
-	list-style: none;
-}*/
+ol, ul {
+	list-style: circle;
+}
 blockquote, q {
 	quotes: none;
 }
