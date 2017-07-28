@@ -313,12 +313,11 @@ ul li {
   padding-left: 20px;
 }
 
-/*
+
 ol li {
-  list-style-position: inside;
   list-style: decimal;
   padding-left: 3px;
-}*/
+}
 
 dl dt {
   color: #303030;
