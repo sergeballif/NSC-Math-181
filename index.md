@@ -44,23 +44,23 @@ title: Math 181 Schedule
 |     	|   **Week 10**      	|                 	|                	
 | Oct 30 	| [3.1](/NSC-Math-181/GP3.1.html)  |             	|
 | Nov 1 		| 3.1 continued  |          	|           	|
-| Nov 3 	| | [3.3](/NSC-Math-181/GP3.3.html)  | 3.1, [Miniproject 7](/NSC-Math-181/CoreLearning/math181miniproject7.pdf)  |
+| Nov 3 	| [3.3](/NSC-Math-181/GP3.3.html)  | 3.1, [Miniproject 7](/NSC-Math-181/CoreLearning/math181miniproject7.pdf)  |
 |     	|   **Week 11**      	|                 	|                	
 | Nov 6 	| [3.4](/NSC-Math-181/GP3.4.html)  |  3.3           	|
 | Nov 8 		| 3.4 continued  |             	|
-| Nov 10 	| Veteran's Day Observed  |  [Miniproject 8](/NSC-Math-181/CoreLearning/math181miniproject8.pdf) |          	|
+| Nov 10 	| Veteran's Day Observed  |           	|
 |     	|   **Week 12**      	|                 	|                	
 | Nov 13 	| [3.5](/NSC-Math-181/GP3.5.html)  |  3.4 |
 | Nov 15 		| 3.5 continued  |         	|
-| Nov 17 	| Review Day  | 3.5, [Miniproject 9](/NSC-Math-181/CoreLearning/math181miniproject9.pdf)             	|
+| Nov 17 	| Review Day  | 3.5, [Miniproject 8](/NSC-Math-181/CoreLearning/math181miniproject8.pdf)             	|
 |     	|   **Week 13**      	|                 	|  
 | Nov 20 	| Midterm 3   |      	|
 | Nov 22 	| [4.1](/NSC-Math-181/GP4.1.html)  |             	|
-| Nov 24 	| Thanksgiving Break  |            	|
+| Nov 24 	| Thanksgiving Break  |   [Miniproject 9](/NSC-Math-181/CoreLearning/math181miniproject9.pdf)      	|
 |     	|   **Week 14**      	|                 	|  
-| Nov 27 	| [4.2](/NSC-Math-181/GP4.2.html)  |  4.1, [Miniproject 10](/NSC-Math-181/CoreLearning/math181miniproject10.pdf) |
+| Nov 27 	| [4.2](/NSC-Math-181/GP4.2.html)  |  4.1 |
 | Nov 29 	| [4.3](/NSC-Math-181/GP4.3.html)  |  4.2           	|
-| Nov 31 	| [4.4](/NSC-Math-181/GP4.4.html)  |  4.3           	|
+| Nov 31 	| [4.4](/NSC-Math-181/GP4.4.html)  |  4.3, [Miniproject 10](/NSC-Math-181/CoreLearning/math181miniproject10.pdf)   	|
 |     	|   **Week 15**      	|                 	|  
 | Dec 4 	| [5.1](/NSC-Math-181/GP5.1.html)  |  4.4           	|
 | Dec 6 	| [5.2](/NSC-Math-181/GP5.2.html)  |  5.1           	|
