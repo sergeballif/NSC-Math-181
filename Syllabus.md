@@ -16,7 +16,7 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 <ol>
 <li>
-<p>Calculate and Interpret Average Rates of Change&lt;br&gt;</p>
+<p>Calculate and Interpret Average Rates of Change</p>
 <ul>
 <li>Numerically calculate an average rate of change from context.</li>
 <li>Use correct units.</li>
