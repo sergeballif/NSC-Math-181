@@ -13,8 +13,6 @@ show_downloads: true
 name: Math 181
 ##Markdown processor
 markdown: kramdown
-##syntax highlighter. change it to pygments
-highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: sergeballif.github.io/NSC-Math-181
