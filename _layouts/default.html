@@ -11,6 +11,24 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    
+      <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+        </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
   </head>
   <body>
     <div class="wrapper">
@@ -19,11 +37,10 @@
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
-          {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-          {% endif %}
-          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          <li><a href="/NSC-Math-181/index.html">Schedule</a></li>
+          <li><a href="/NSC-Math-181/Syllabus.html">Syllabus</a></li>
+          <li><a href="/NSC-Math-181/Specifications.html">Specifications</a></li>
+          <li><a href="/NSC-Math-181/Core.html">Projects/Exams</a></li>
         </ul>
 
         {% if site.github.is_project_page %}
