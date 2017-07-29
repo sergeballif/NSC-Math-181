@@ -128,6 +128,8 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 
 The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__.
 
+[A Grade Table](assets/images/GradeSummary.PNG)
+
 ![A Grade Checklist](assets/images/GradeChecklistFa2017.PNG)
 
 __Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are five overall categories of work you will do: Guided Practice, Daily Quizzes, Problems/Miniprojects, WeBWorK HW, and WeBWorK HW Journals.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
@@ -147,7 +149,7 @@ __Revisions:__ Instead of partial credit, you will receive numerous opportunitie
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
 * Problems are assessed on Midterm and Final exams.  If you fail to __PASS__ a learning outcome on the exam, then you can attempt that problem type on the last day of class in the Bonus Final. Once you __PASS__ enough problems for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the Final exam or Bonus Final because they have already “leveled up” to their target grade by the time of the exam.
-* **Any miniproject submission that does not attain a __PASS__ level can be revised and resubmitted for regrading at the expense of a token.** 
+* **Any miniproject submission that does not attain a PASS level can be revised and resubmitted for regrading at the expense of a token.** 
 * 
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent __No Pass__.
 
