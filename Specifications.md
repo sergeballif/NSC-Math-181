@@ -5,7 +5,7 @@ title: Specifications
 
 # Specifications for Student Work in Math 181
 
-## Specifications for Pass/No Pass work on Guided Practice, Concept Quizzes, and WeBWorK
+## Specifications for Pass/No Pass work on Guided Practice, Daily Quizzes, Miniprojects, Problems, and WeBWorK Journal
 
 The rules for determining Pass/No Pass work on these three items are very simple: 
 
@@ -33,7 +33,6 @@ In addition to these 4 5-point grades on 4 random problems, you will receive an 
 
 __A Passing grade will be assigned to WeBWorK Journals that have obtained at least 25 out of 30 points.__
 
-
 __Additional Suggestions__  You will be well-served by being organized and timely in keeping your homework journal and submitting WeBWorK assignments. 
 
  I encourage you to keep your homework journal in a 3-ring binder, using loose-leaf paper. You should view it as a way to keep yourself organized and on top of the weekly WeBWorK assignments.  
@@ -42,20 +41,20 @@ I also urge you to begin working on WeBWorK problems soon after they post and to
 
 The number one way to be successful in mathematics is to do a lot of problems, and to do them in a way where you strive to achieve deep, personal understanding of how the problems are solved.
 
-## Specifications for work on Problems, Teaching Items, and Miniprojects
+## Specifications for work on Problems and Miniprojects
 
 Problems and Miniprojects differ from other work in the class in that they involve written communication, and not just giving answers to problems. Therefore the specifications for work on these items are more complex and focus mainly on writing, communication, and style. 
 
-### General rules for Passing work on Problems, Teaching Items, and Miniprojects
+### General rules for Passing work on Problems and Miniprojects
 
-Attaining Mastery level on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
+Attaining a __PASS__ grade on one of these items requires that you be aware of the four different kinds of error that can occur when doing significant work in mathematics. 
 
 1. __Computational error__. This occurs when a mathematical computation (calculus, algebra, arithmetic, etc.) is incorrectly carried out, either by hand or on a computer. For example: Given the equaton $3x = 9$ and arriving at $x = 2$ is a computational error. 
 2. __Logical error__. A logical error occurs when a conclusion is drawn erroneously from a set of information. For example: Given the equation $x^2 = 9$ and concluding that x must be positive is a logical error. In calculus, if you are given the derivative equation $f'(5) = 0$, and then conclude that f must have a local extreme value at $x = 5$, this is a logical error. 
 3. __Syntax error__. Syntax errors occur in one of two ways. First, they can occur as errors in English grammar, when the rules for language usage are not followed correctly, especially to the point that they obscure the thought process in the solution or introduce new errors. Second, they can occur as errors in the usage of mathematical notation, especially if the misuse of notation obscures the solution or introduces new errors. For example, in calculus the misuse of the pronoun "it" without clear reference to an antecedent is a particular problem (example: "It is increasing because it is positive"). In mathematical notation, syntax errors can be caused by switching variables mid-solution (for example, solving $3t = 9$ to get $x = 3$ is an error); by misusing function notation, mismatching parentheses, and a host of other possibilities. (Note: WeBWorK in particular has no mercy when it comes to syntax error.) 
 4. __Semantic error__. Semantic errors occur when the rules of the _grammar_ of a language are followed but the resulting statements are nonsensical or meaningless. For example, the statement "Colorless green ideas sleep furiously" is correct English syntax but has no meaning, therefore it represents a semantic error. In mathematics, a similarly semantically erroneous statement would be "The following graph can be factored". This is a semantic error because we don't "factor" graphs; we factor polynomials and integers, and to say we are "factoring a graph" is meaningless. 
 
-In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 181 is: __Work on Problems and Miniprojects must be almost, if not  entirely free of all of the above kinds of error in order to be assessed as Mastery level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect (for Problems) or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the work being marked as _Progressing_ at best. 
+In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 181 is: __Work on Problems and Miniprojects must be almost, if not  entirely free of all of the above kinds of error in order to be assessed at the PASS level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect (for Problems) or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the problem being marked as __No PASS__. 
 
 For these items, we will often refer to the __standard audience for Math 181__, which is defined to be: 
 
@@ -67,17 +66,15 @@ In addition to the above, here are some special rules for other aspects of your 
 
 ### Specifications for supporting work
 
-In Problems and Miniprojects it is crucial that you __not only give an answer or a conclusion but also clear, complete, and correct work that backs up your answer or conclusion__. Submitted work that consists only of answers will be considered a "significantly incomplete" in the language of the syllabus.
+In Problems and Miniprojects it is crucial that you __not only give an answer or a conclusion but also clear, complete, and correct work that backs up your answer or conclusion__. Submitted work that consists only of answers will receive a __No PASS__.
 
-+ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer.
-+ For _Teaching Items_ your explanations and presentation should be at the level of the instructor or a competent tutor. The explanations and details should be clear to the standard Math 181 audience.
-+ For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your conclusion. 
-+ Answers or conclusions that are given that have only minimal supporting work, or for which the relationship between the answer/conclusion and the supporting work is tenuous, illogical, or unclear will be marked at Novice level and returned without further feedback. 
++ For _Problems_ in which you are asked for a clearly-defined answer to a computational problem, the answer must be clearly indicated (for example, by drawing a box around it), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your answer. Story problems must be answered with a full sentence that includes appropriate units.
++ For _Miniprojects_ in which there may not be a single right answer but rather a conclusion or analysis you are asked to perform, the conclusion you are asked to draw or analysis must be clearly indicated (for example, by setting it off in a separate section of your writeup), and there must be supporting work free of significant gaps for the standard Math 181 audience that clearly supports your conclusion. In a miniprojects that asks you to create a teaching lesson, your explanations and presentation should be at the level of the instructor or a competent tutor. The explanations and details should be clear to the standard Math 181 audience.
++ Answers or conclusions that are given that have only minimal supporting work, or for which the relationship between the answer/conclusion and the supporting work is tenuous, illogical, or unclear will be marked __No PASS__ and returned without further feedback. 
 
 ### Specifications for formatting submissions
 
-+ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as PDF files. Files that are submitted in some other form besides PDF will be marked at Novice level and returned to the author without feedback. 
-+ Each Miniproject will include a cover page that states the file name to use when submitting it. Files that are submitted with the incorrect file name will be marked at Novice level and returned to the author without feedback. 
++ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as PDF files. Files that are submitted in some other form besides PDF will be marked as __No PASS__ and returned to the author without feedback. 
 
 ### Specifications for graphical elements
 
@@ -88,4 +85,4 @@ The following specifications apply specifically to graphs of functions:
 + Both axes should include tick marks that are sufficiently labeled to show the scaling. Choose scale increments for both axes that are easy to read. 
 + If you are graphing more than one function on the same set of axes, each individual function must be clearly labeled. 
 
-Graphs that are included in a writeup for a Problem, Teaching Item, or Miniproject _must_ satisfy all of these stylistic elements in order to be marked at Mastery level unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct variable name.)
+Graphs that are included in a writeup for a Problem or Miniproject _must_ satisfy all of these stylistic elements in order to be marked as __PASS__ unless the context of the problem prohibits one or more of these elements being met. For example, if you are asked to draw a graph of a function but the function does not correspond to any real-world relationship and does not have units, then obviously your axis labels do not need to include the quantity or the units. (But they _should_ include the correct variable name.)
