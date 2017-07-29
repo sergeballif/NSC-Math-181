@@ -128,7 +128,9 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 
 The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__.
 
-[A Grade Table](assets/images/GradeSummary.PNG)
+![A Grade Table](assets/images/GradeSummary.PNG)
+
+It might be easier to visualize the grading system as a collection of checkmarks
 
 ![A Grade Checklist](assets/images/GradeChecklistFa2017.PNG)
 
