@@ -4,7 +4,6 @@ title: Math 181 Syllabus
 published: true
 ---
 
-
 ## Contact Information
 __Instructor:__ Serge Ballif  
 __Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
@@ -88,9 +87,10 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
     * Use $u$-substitution to evaluate integrals. 
 
 ## Quick Grade Summary
-Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
 
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/692942659517415426/1024/10/scaletowidth#tl-692942659517415426;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+Except for the WeBWorK HW, all of the work in the course will be graded on a __PASS__/__NO PASS__ basis. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
+
+![A Grade Checklist](assets/images/GradeSummary.PNG)
 
 The rest of the syllabus explains more details about what these categories are.
 
@@ -113,9 +113,8 @@ The work you do in the course has two purposes: To help you make sense of the co
 through Guided Practice.
 * __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the specification guidelines.
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 17 types are posted to the Blackboard site. Within these 17 types are 6 types that are labeled core , and 11 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
-* __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
-* __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types:
+* __Miniprojects/Problems:__  The exams will test mastery of the 16 course learning objectives. Each of the exams will consist of problems that where student scan show mastery of the learning outcomes that were part of the chapter. In addition to the Problems, there are eight miniprojects that involve a careful write-up of your solution. Most Miniprojects focus on real-world applications and the use of real-world data and, especially, the use of technology to model and solve problems involving calculus.
+Three of the miniprojects ask students to take on the role of teacher by creating lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. These teaching Miniprojects are of three types.
   - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
   - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
   - __Desmos Activity__ Students will create a Desmos account at [https://teacher.desmos.com](https://teacher.desmos.com) and create a lesson activity that illustrates one of the core objectives of the class.
@@ -124,41 +123,10 @@ __Grading System__
 Math 181 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
 
 * At the beginning of the semester, you will be asked to decide on the target grade you plan to earn for the course. This does not need to be an “A”. You’ll be asked to carefully consider your goals, skill set, life situation, academic needs, and so on before stating your target grade. For some students, a “B” or even a “C” is perfectly sufficient and realistic, relative to their situation.
-* **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate document, and you should make yourself intimately familiar with that document. Your Guided Practice, WeBWorK Homework, WeBWorK Journals, and Daily Quizzes are graded on a Pass/No Pass basis; Problems, Miniprojects, and Teaching Items are graded using Mastery/Progressing/Novice designations.
-* The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
+* **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate page, and you should make yourself intimately familiar with that document. Each Guided Practice, WeBWorK Homework, WeBWorK Journal, and Daily Quiz, Problem, and Miniproject will be graded on a Pass/No Pass basis.
+* The grade you earn at the end of the semester is determined by counting the number of items in each category that you __PASS__. There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
-
-#### To earn an A
-* Complete the Getting Started assignment in week 1, AND
-* Pass 25 of 27 Guided Practice assignments, AND
-* Pass 22 of 27 Daily Quizzes, AND
-* Score at least 200 total points on WeBWorK, AND
-* Attain Mastery level on all 10 core problems and miniprojects PLUS 10 other problems or miniprojects, AND
-* Complete 3 Teaching Items (one of each type) with a Mastery.
-
-#### To earn an B
-* Complete the Getting Started assignment in week 1, AND
-* Pass 22 of 27 Guided Practice assignments, AND
-* Pass 18 of 27 Daily Quizzes, AND
-* Score at least 180 total points on WeBWorK, AND
-* Attain Mastery level on all 10 core problems and miniprojects PLUS 5 other problems or miniprojects, AND
-* Complete 2 Teaching Items (one of each type) with a Mastery.
-
-#### To earn an C
-* Complete the Getting Started assignment in week 1, AND
-* Pass 19 of 27 Guided Practice assignments, AND
-* Pass 14 of 27 Daily Quizzes, AND
-* Score at least 160 total points on WeBWorK, AND
-* Attain Mastery level on all 10 core problems and miniprojects, AND
-* Complete 1 Teaching Items (one of each type) with a Mastery.
-
-#### To earn an D
-* Complete the Getting Started assignment in week 1, AND
-* Pass 14 of 27 Guided Practice assignments, AND
-* Pass 10 of 27 Daily Quizzes, AND
-* Score at least 140 total points on WeBWorK, AND
-* Attain Mastery level on at least 10 problems and miniprojects (not necessarily all core), AND
+The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__.
 
 ![A Grade Checklist](images/GradeChecklist.PNG)
 
