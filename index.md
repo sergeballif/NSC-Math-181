@@ -8,7 +8,7 @@ title: Math 181 Schedule
 | 	| **Week 1**      	| |
 | Aug 28 	| Intro  |                	|
 | Aug 30 	| [1.1](/NSC-Math-181/GP1.1.html)  |                	|
-| Sep 1 	| [1.2](/NSC-Math-181/GP1.2.html)  | 1.1,  [Getting Started](https://student.desmos.com/?prepopulateCode=hts5)          	|
+| Sep 1 	| [1.2](/NSC-Math-181/GP1.2.html)  | 1.1,  [Getting Started](https://student.desmos.com/?prepopulateCode=hts5)  	|
 |     	|   **Week 2**      	|                 	|                	
 | Sep 4 	| Labor Day |            	|
 | Sep 6 		| [1.3](/NSC-Math-181/GP1.3.html)  | 1.2            	|
@@ -16,11 +16,11 @@ title: Math 181 Schedule
 |     	|   **Week 3**      	|                 	|                	
 | Sep 11 	| [1.5](/NSC-Math-181/GP1.5.html)  | 1.4            	|   
 | Sep 13 		| [1.6](/NSC-Math-181/GP1.6.html)  | 1.5            	|
-| Sep 15 		| [1.7](/NSC-Math-181/GP1.7.html)  | 1.6, [Miniproject 1](/NSC-Math-181/CoreLearning/math181miniproject1.pdf)            	|    
+| Sep 15 		| [1.7](/NSC-Math-181/GP1.7.html)  | 1.6, [Miniproject 1](/NSC-Math-181/CoreLearning/math181miniproject1.pdf)  	|    
 |     	|   **Week 4**      	|                 	|  
 | Sep 18 	| 1.7 continued  |             	|              	
 | Sep 20 	| [1.8](/NSC-Math-181/GP1.8.html)  | 1.7            	|
-| Sep 22 		| Review Day  | 1.8, [Miniproject 2](/NSC-Math-181/CoreLearning/math181miniproject2.pdf)             	| 
+| Sep 22 		| Review Day  | 1.8, [Miniproject 2](/NSC-Math-181/CoreLearning/math181miniproject2.pdf)   	| 
 |     	|   **Week 5**      	|                 	|                	
 | Sep 25 	| Midterm 1  |             	|
 | Sep 27 		| [2.1](/NSC-Math-181/GP2.1.html)  |             	|
@@ -28,7 +28,7 @@ title: Math 181 Schedule
 |     	|   **Week 6**      	|                 	|                	
 | Oct 2 	| [2.3](/NSC-Math-181/GP2.3.html)  | 2.2            	|
 | Oct 4 		| [2.4](/NSC-Math-181/GP2.4.html)  | 2.3            	|
-| Oct 6 		| [2.5](/NSC-Math-181/GP2.5.html)  | 2.4, [Miniproject 4](/NSC-Math-181/CoreLearning/math181miniproject4.pdf)            	|    
+| Oct 6 		| [2.5](/NSC-Math-181/GP2.5.html)  | 2.4, [Miniproject 4](/NSC-Math-181/CoreLearning/math181miniproject4.pdf)            	| 
 |     	|   **Week 7**      	|                 	|                	
 | Oct 9  	| 2.5 continued |             	|
 | Oct 11 		| [2.6](/NSC-Math-181/GP2.6.html)  | 2.5            	|
@@ -43,7 +43,7 @@ title: Math 181 Schedule
 | Oct 27 	| Nevada Day  |             	|
 |     	|   **Week 10**      	|                 	|                	
 | Oct 30 	| [3.1](/NSC-Math-181/GP3.1.html)  |             	|
-| Nov 1 		| 3.1 continued  |          	|           	|
+| Nov 1 		| 3.1 continued  |          	|        
 | Nov 3 	| [3.3](/NSC-Math-181/GP3.3.html)  | 3.1, [Miniproject 7](/NSC-Math-181/CoreLearning/math181miniproject7.pdf)  |
 |     	|   **Week 11**      	|                 	|                	
 | Nov 6 	| [3.4](/NSC-Math-181/GP3.4.html)  |  3.3           	|
