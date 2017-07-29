@@ -1,1 +1,11 @@
 theme: jekyll-theme-dinky
+
+name: Math 181
+markdown: kramdown
+url: sergeballif.github.io
+baseurl: NSC-Math-181
+
+title: NSC-Math-181
+description: Syllabus for Calculus 1
+google_analytics: 
+show_downloads: true
