@@ -133,8 +133,11 @@ The table for determining your grade is given below. For reference: there are a 
 __Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are five overall categories of work you will do: Guided Practice, Daily Quizzes, Problems/Miniprojects, WeBWorK HW, and WeBWorK HW Journals.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
 
 * Example: A student who has passed 24 Guided Practice assignments (B level), 20 Daily Quizzes (B level), scored 116 points on WeBWorK (B level), passed two WeBWorK Journals (B level), and passed 17 projects or miniproblems (C level) receives a B- since the Projects grade was the lowest but the only one at that grade level.
+
 ![A Grade Checklist]assets/images/GradeChecklistFa2017Ex1.png)
-* Example: A student who has passed 25 Guided Practice assignments (B level), 24 Daily Quizzes (A level), scored 140 points on WeBWorK (A level), passed three WeBWorK Journals (A level), and passed 21 projects or miniproblems (B level) receives a B+ since there were two components at a B level while all the others were at a higher level. 
+
+* Example: A student who has passed 25 Guided Practice assignments (B level), 24 Daily Quizzes (A level), scored 140 points on WeBWorK (A level), passed three WeBWorK Journals (A level), and passed 21 projects or miniproblems (B level) receives a B+ since there were two components at a B level while all the others were at a higher level.
+
 ![A Grade Checklist](assets/images/GradeChecklistFa2017Ex2.png)
 
 Please note that NSC does not award grades of A+ or D-.
