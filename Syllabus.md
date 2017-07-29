@@ -132,28 +132,28 @@ The table for determining your grade is given below. For reference: there are a 
 
 __Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are five overall categories of work you will do: Guided Practice, Daily Quizzes, Problems/Miniprojects, WeBWorK HW, and WeBWorK HW Journals.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
 
-* Example : A student who has passed Getting Started passed 23 Guided Practice assignments (B level), 16 Daily Quizzes (C level), scored 188 points on WeBWorK (B level), passed two WeBWorK Journals (B level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 2 Teaching Items (B level) receives a B-- since the Daily Quizzes level was the lowest level but the only one at that level.
-![A Grade Checklist](images/GradeChecklistExample1.PNG)
-* Example : A student who has passed Getting Started passed 24 Guided Practice assignments (B level), 22 Daily Quizzes (A level), scored 206 points on WeBWorK (A level), passed three WeBWorK Journals (A level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 3 Teaching Items (B level) receives a B+ since there were two components at a B level while all the others were at A level. 
-![A Grade Checklist](images/GradeChecklistExample2.PNG)
+* Example: A student who has passed 24 Guided Practice assignments (B level), 20 Daily Quizzes (B level), scored 116 points on WeBWorK (B level), passed two WeBWorK Journals (B level), and passed 17 projects or miniproblems (C level) receives a B- since the Projects grade was the lowest but the only one at that grade level.
+![A Grade Checklist]assets/images/GradeChecklistFa2017Ex1.png)
+* Example: A student who has passed 25 Guided Practice assignments (B level), 24 Daily Quizzes (A level), scored 140 points on WeBWorK (A level), passed three WeBWorK Journals (A level), and passed 21 projects or miniproblems (B level) receives a B+ since there were two components at a B level while all the others were at a higher level. 
+![A Grade Checklist](assets/images/GradeChecklistFa2017Ex2.png)
 
 Please note that NSC does not award grades of A+ or D-.
 
-__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing or Mastery. Specifically: 
+__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing. Specifically: 
 
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
-* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 17 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
-* **Any miniproject submission that does not attain Mastery level can be revised and resubmitted for regrading.** You can submit up to one miniproject per week for regrading (in addition to any new submissions). Miniprojects that attain Progressing level can be resubmitted without penalty. Miniprojects assessed at Novice level can be resubmitted if you spend a token (below).
+* Problems are assessed on Midterm and Final exams.  If you fail to __PASS__ a learning outcome on the exam, then you can attempt that problem type on the last day of class in the Bonus Final. Once you __PASS__ enough problems for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the Final exam or Bonus Final because they have already “leveled up” to their target grade by the time of the exam.
+* **Any miniproject submission that does not attain a __PASS__ level can be revised and resubmitted for regrading at the expense of a token.** 
 * 
-_Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
+_Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent __No Pass__.
 
-__Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
+__Tokens:__ Each student will be given 5 “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
 
-* A revision of a Miniproject that was assessed at Novice level (within one week of receiving the grade).
+* A revision of a Miniproject that was assessed as a __No PASS__ (within one week of receiving the grade).
 * A revision of a WeBWorK journal (within one week of receiving the grade)
 * A third attempt of a Quiz (any time during the semester though the second attempt must be within a week of taking the first quiz).
-* A 24-hour extension on any Midterm Exam, Miniproject, WeBWorK set, or Teaching Item, or the Getting Started assignment. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
+* A 24-hour extension on any Miniproject or WeBWorK set. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
 
 Opportunities to earn additional tokens may be given during the semester.
 
@@ -165,10 +165,10 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
  
-The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleMath181Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+The chief downside to this system is that it’s complicated. You can download my [sample gradebook](assets/images/Math181GradebookFa17.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
 
-If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the mediasite tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
+If you miss class you will miss out on the daily quiz. The quiz will only be given to students in class; you will need to use one of your tokens if you want to take a quiz outside of class. If you miss class, then you will also miss out on the lecture and activities. One possible way to catch up on the material that was covered during class is to watch the lecture recording which can be accessed by clicking on the YuJa tab in Canvas. However, you should only think of the recorded lecture as a backup because there are occasionally technical problems.
 
 Note that the style of this class is a partially flipped class, so you will do much of your learning by reading and watching videos outside of class. Much of each class period will be devoted to applying the principles and practicing the techniques that will be acquired in the out-of-class reading. You probably don’t want to miss out on the classroom discussion and activities. If you must miss class, then be sure to complete the Guided Practice prior to class.
