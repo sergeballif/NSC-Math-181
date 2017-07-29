@@ -63,12 +63,12 @@ Guided Practice and WeBWorK HW are due at the beginning of class each day. Minip
 |     	|   **Week 14**      	|                 	|  
 | Nov 27 	| [4.2](/NSC-Math-181/GP4.2.html)  |  4.1 |
 | Nov 29 	| [4.3](/NSC-Math-181/GP4.3.html)  |  4.2           	|
-| Nov 31 	| [4.4](/NSC-Math-181/GP4.4.html)  |  4.3, [Miniproject 10](/NSC-Math-181/CoreLearning/math181miniproject10.pdf)   	|
+| Dec 1 	| [4.4](/NSC-Math-181/GP4.4.html)  |  4.3, [Miniproject 10](/NSC-Math-181/CoreLearning/math181miniproject10.pdf)   	|
 |     	|   **Week 15**      	|                 	|  
 | Dec 4 	| [5.1](/NSC-Math-181/GP5.1.html)  |  4.4           	|
 | Dec 6 	| [5.2](/NSC-Math-181/GP5.2.html)  |  5.1           	|
 | Dec 10 	| [5.3](/NSC-Math-181/GP5.3.html)  |  5.2, [Miniproject 11](/NSC-Math-181/CoreLearning/math181miniproject11.pdf) |  
 |     	|   **Week 16**      	|                 	|  
-| Nov 11 	| Review Day  |  5.3           	|
+| Dec 11 	| Review Day  |  5.3           	|
 | Dec 13 	| Final Exam |           	|
 | Dec 15 	| Bonus Final |             	|
