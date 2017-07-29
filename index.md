@@ -3,6 +3,9 @@ layout: default
 title: Math 181 Schedule
 ---
 
+Guided Practice and WeBWorK HW are due at the beginning of class each day. Miniprojects are due on Fridays at midnight.
+
+
 | Date   	| Guided Practice 	| WeBWorK HW Due 	|
 |--------	|---------	|-----------------	|
 | 	| **Week 1**      	| |
