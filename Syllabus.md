@@ -134,7 +134,7 @@ __Plus/Minus grading:__ In case not all of your attainments in the class are at 
 
 * Example: A student who has passed 24 Guided Practice assignments (B level), 20 Daily Quizzes (B level), scored 116 points on WeBWorK (B level), passed two WeBWorK Journals (B level), and passed 17 projects or miniproblems (C level) receives a B- since the Projects grade was the lowest but the only one at that grade level.
 
-![A Grade Checklist]assets/images/GradeChecklistFa2017Ex1.png)
+![A Grade Checklist](assets/images/GradeChecklistFa2017Ex1.png)
 
 * Example: A student who has passed 25 Guided Practice assignments (B level), 24 Daily Quizzes (A level), scored 140 points on WeBWorK (A level), passed three WeBWorK Journals (A level), and passed 21 projects or miniproblems (B level) receives a B+ since there were two components at a B level while all the others were at a higher level.
 
