@@ -88,7 +88,7 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 ## Quick Grade Summary
 
-Except for the WeBWorK HW, all of the work in the course will be graded on a __PASS__/__NO PASS__ basis. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
+Except for the WeBWorK HW, all of the work in the course will be graded on a __PASS__/__NO PASS__ basis. The [Schedule](index.html) tells when outside work is due and the [Specifications](Specifications.html) give the details on how to get a checkmark. 
 
 ![A Grade Checklist](assets/images/GradeSummary.PNG)
 
@@ -113,7 +113,7 @@ The work you do in the course has two purposes: To help you make sense of the co
 through Guided Practice.
 * __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the specification guidelines.
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Miniprojects/Problems:__  The exams will test mastery of the 16 course learning objectives. Each of the exams will consist of problems that where student scan show mastery of the learning outcomes that were part of the chapter. In addition to the Problems, there are eight miniprojects that involve a careful write-up of your solution. Most Miniprojects focus on real-world applications and the use of real-world data and, especially, the use of technology to model and solve problems involving calculus.
+* __Miniprojects/Problems:__  The exams will test mastery of the 16 course learning objectives. Each of the exams will consist of problems that where student scan show mastery of the learning outcomes that were part of the chapter. In addition to the Problems, there are eleven miniprojects that involve a careful write-up of your solution. Most Miniprojects focus on real-world applications and the use of real-world data and, especially, the use of technology to model and solve problems involving calculus.
 Three of the miniprojects ask students to take on the role of teacher by creating lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. These teaching Miniprojects are of three types.
   - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
   - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
