@@ -96,7 +96,7 @@ The rest of the syllabus explains more details about what these categories are.
 
 ## Course Materials
 __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
-[http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
+[http://gvsu.edu/s/xr](http://gvsu.edu/s/xr) or webpage at [http://faculty.gvsu.edu/boelkinm/Home/AC/index.html](http://faculty.gvsu.edu/boelkinm/Home/AC/index.html). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
 __Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
 __Software:__ The course uses three software tools:
 
