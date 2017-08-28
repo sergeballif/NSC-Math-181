@@ -11,7 +11,7 @@ Guided Practice and WeBWorK HW are due at the beginning of class each day. Minip
 | 	| **Week 1**      	| |
 | Aug 28 	| Intro  |                	|
 | Aug 30 	| [1.1](/NSC-Math-181/GP1.1.html)  |                	|
-| Sep 1 	| [1.2](/NSC-Math-181/GP1.2.html)  | 1.1,  [Getting Started](https://student.desmos.com/?prepopulateCode=hts5)  	|
+| Sep 1 	| [1.2](/NSC-Math-181/GP1.2.html)  | 1.1 	|
 |     	|   **Week 2**      	|                 	|                	
 | Sep 4 	| Labor Day |            	|
 | Sep 6 		| [1.3](/NSC-Math-181/GP1.3.html)  | 1.2            	|
