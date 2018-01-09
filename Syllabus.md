@@ -8,7 +8,7 @@ published: true
 __Instructor:__ Serge Ballif  
 __Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
 __Telephone:__ (702) 992-2613  
-__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
+__Office Hours:__ NSE 114 Mon/Wed/Fri 9:00-9:20, 12:30-1:30, Tue/Thu 10:00-11:00. Drop by my office any time for help.
 
 ## Course Learning Outcomes
 A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
@@ -26,14 +26,14 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 3. Linearization and Approximations
     * Use the derivative to approximate values of a function.
-    * Recognize when a function is not locally linear and include a prcise explanation of why. 
+    * Recognize when a function is not locally linear and include a prcise explanation of why.
 
 4. Interpretation of the Derivative
    * Describe the units of the derivative.
    * Explain the meaning of values of the derivative in context (with complete sentences).
-   * Interpret the value of the derivative as the slope of the tangent line at a point. 
+   * Interpret the value of the derivative as the slope of the tangent line at a point.
 
-5. Relationships between a function and its derivative. 
+5. Relationships between a function and its derivative.
    * Given a function, be able to sketch the derivative function.
    * Explain the relationships between functions and their derivative (using words like increasing, decreasing, positive, negative, concave up, and conecave down) using tables of data, graphs, or functinos.
    * Use the derivative to find local minimum and maximum values and interpret these points in context.
@@ -44,7 +44,7 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 7. Product and Quotient Rule
    * Calculate the derivative of products or quotients of functions
    * Symbolically apply the product and quotient rules when explicit functions are not given.
-  
+
 8. Chain Rule
    * Calculate the derivatives of compositions of functions
    * Find and interpret derivatives of implicit functions.
@@ -55,7 +55,7 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 10. Concavity and Inflection Points
     * Identify intervals where a function is concave up or concave down.
-    * Find and interpret inflection points in the context of a problem. 
+    * Find and interpret inflection points in the context of a problem.
     * Use a calculus-based test to justify conclusions
 
 11. Related Rates
@@ -65,7 +65,7 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 12. Optimization
     * Use the derivative to find minimum and maximum values of a function in context.
-    * Find reasonable domains for functinos in context, and find the maxima and minima on these restricted domains. 
+    * Find reasonable domains for functinos in context, and find the maxima and minima on these restricted domains.
     * Accurately summarize and interpret a solution to an optimization problem with a sentence (including units).
 
 13. Compute and Interpret Riemann Sums
@@ -84,11 +84,11 @@ A successful Math 181 student will demonstrate evidence of mastery of each of th
 
 16. Antiderivatives
     * Find antiderivatives of power functions, exponential functions, and trigonometric functions.
-    * Use $u$-substitution to evaluate integrals. 
+    * Use $u$-substitution to evaluate integrals.
 
 ## Quick Grade Summary
 
-Except for the WeBWorK HW, all of the work in the course will be graded on a __PASS__/__NO PASS__ basis. The [Schedule](index.html) tells when outside work is due and the [Specifications](Specifications.html) give the details on how to get a checkmark. 
+Except for the WeBWorK HW, all of the work in the course will be graded on a __PASS__/__NO PASS__ basis. The [Schedule](index.html) tells when outside work is due and the [Specifications](Specifications.html) give the details on how to get a checkmark.
 
 ![A Grade Checklist](assets/images/GradeSummary.PNG)
 
@@ -126,33 +126,33 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate page, and you should make yourself intimately familiar with that document. Each Guided Practice, WeBWorK Homework, WeBWorK Journal, and Daily Quiz, Problem, and Miniproject will be graded on a Pass/No Pass basis.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you __PASS__. There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__.
+The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __PASS__.
 
 ![A Grade Table](assets/images/GradeSummary.PNG)
 
 It might be easier to visualize the grading system as a collection of checkmarks
 
-![A Grade Checklist](assets/images/GradeChecklistFa2017.PNG)
+![A Grade Checklist](assets/images/GradeChecklistSp2018.PNG)
 
 __Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are five overall categories of work you will do: Guided Practice, Daily Quizzes, Problems/Miniprojects, WeBWorK HW, and WeBWorK HW Journals.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
 
-* Example: A student who has passed 24 Guided Practice assignments (B level), 20 Daily Quizzes (B level), scored 116 points on WeBWorK (B level), passed two WeBWorK Journals (B level), and passed 17 projects or miniproblems (C level) receives a B- since the Projects grade was the lowest but the only one at that grade level.
+* Example: A student who has passed 23 Guided Practice assignments (B level), 17 Daily Quizzes (C level), scored 140 points on WeBWorK (A level), passed 3 WeBWorK Journals (A level), passed 5 Miniprojects (B level), and passed 12 exam problems (B level) receives a **B-** since the lowest grade was a C while all the others were at a higher level.
 
-![A Grade Checklist](assets/images/GradeChecklistFa2017Ex1.png)
+![A Grade Checklist](assets/images/GradeChecklistFa2018Ex1.png)
 
-* Example: A student who has passed 25 Guided Practice assignments (B level), 24 Daily Quizzes (A level), scored 140 points on WeBWorK (A level), passed three WeBWorK Journals (A level), and passed 21 projects or miniproblems (B level) receives a B+ since there were two components at a B level while all the others were at a higher level.
+* Example: A student who has passed 23 Guided Practice assignments (B level), 25 Daily Quizzes (A level), scored 132 points on WeBWorK (A level), passed 3 WeBWorK Journals (A level),passed 5 Miniprojects (B level), and passed 15 exam problems (A level) receives a **B+** since the lowest grade was a B, but there were only two grades at that level.
 
-![A Grade Checklist](assets/images/GradeChecklistFa2017Ex2.png)
+![A Grade Checklist](assets/images/GradeChecklistFa2018Ex2.png)
 
 Please note that NSC does not award grades of A+ or D-.
 
-__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing. Specifically: 
+__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing. Specifically:
 
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
 * Problems are assessed on Midterm and Final exams.  If you fail to __PASS__ a learning outcome on the exam, then you can attempt that problem type on the last day of class in the Bonus Final. Once you __PASS__ enough problems for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the Final exam or Bonus Final because they have already “leveled up” to their target grade by the time of the exam.
-* **Any miniproject submission that does not attain a PASS level can be revised and resubmitted for regrading at the expense of a token.** 
-* 
+* **Any miniproject submission that does not attain a PASS level can be revised and resubmitted for regrading at the expense of a token.**
+*
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent __No Pass__.
 
 __Tokens:__ Each student will be given 5 “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
@@ -171,8 +171,8 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It directly links the grade you earn to the amount and quality of work that you do.
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
- 
-The chief downside to this system is that it’s complicated. You can download my [sample gradebook](assets/images/Math181GradebookFa17.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+
+The chief downside to this system is that it’s complicated. You can download my [sample gradebook](assets/images/Math181GradebookSp18.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
 
