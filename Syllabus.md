@@ -128,7 +128,7 @@ Math 181 uses a **points-free mastery-based grading system** that is designed to
 
 The table for determining your grade is given below. For reference: there are a total of 27 problems and miniprojects, 27 daily quizzes, 28 guided practice assignments, and 140 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __PASS__.
 
-![A Grade Table](assets/images/GradeSummary.PNG)
+![A Grade Table](assets/images/GradeSummarySp18.PNG)
 
 It might be easier to visualize the grading system as a collection of checkmarks
 
@@ -138,11 +138,11 @@ __Plus/Minus grading:__ In case not all of your attainments in the class are at 
 
 * Example: A student who has passed 23 Guided Practice assignments (B level), 17 Daily Quizzes (C level), scored 140 points on WeBWorK (A level), passed 3 WeBWorK Journals (A level), passed 5 Miniprojects (B level), and passed 12 exam problems (B level) receives a **B-** since the lowest grade was a C while all the others were at a higher level.
 
-![A Grade Checklist](assets/images/GradeChecklistFa2018Ex1.png)
+![A Grade Checklist](assets/images/GradeChecklistSp2018Ex1.png)
 
 * Example: A student who has passed 23 Guided Practice assignments (B level), 25 Daily Quizzes (A level), scored 132 points on WeBWorK (A level), passed 3 WeBWorK Journals (A level),passed 5 Miniprojects (B level), and passed 15 exam problems (A level) receives a **B+** since the lowest grade was a B, but there were only two grades at that level.
 
-![A Grade Checklist](assets/images/GradeChecklistFa2018Ex2.png)
+![A Grade Checklist](assets/images/GradeChecklistSp2018Ex2.png)
 
 Please note that NSC does not award grades of A+ or D-.
 
