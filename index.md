@@ -48,15 +48,15 @@ Nov 2  | [3.3](/NSC-Math-181/GP3.3.html) | 3.1, [Miniproject 7](/NSC-Math-181/Co
        | **Week 11**                     |
 Nov 5  | [3.4](/NSC-Math-181/GP3.4.html) | 3.3
 Nov 7  | 3.4 continued                   |
-Nov 9  | [3.5](/NSC-Math-181/GP3.5.html) | 3.4
+Nov 9  | [3.5](/NSC-Math-181/GP3.5.html) | 3.4, [Miniproject 8](/NSC-Math-181/CoreLearning/math181miniproject8.pdf)
        | **Week 12**                     |
 Nov 12 | Veteran's Day Observed          | 
 Nov 14 | 3.5 continued                   |
-Nov 16 | Review Day                      | 3.5, [Miniproject 8](/NSC-Math-181/CoreLearning/math181miniproject8.pdf)
+Nov 16 | Review Day                      | 3.5, [Miniproject 9](/NSC-Math-181/CoreLearning/math181miniproject9.pdf)
        | **Week 13**                     |
 Nov 19 | Midterm 3                       |
 Nov 21 | [4.1](/NSC-Math-181/GP4.1.html) |
-Nov 23 | Thanksgiving Break              | [Miniproject 9](/NSC-Math-181/CoreLearning/math181miniproject9.pdf)
+Nov 23 | Thanksgiving Break              | 
        | **Week 14**                     |
 Nov 26 | [4.2](/NSC-Math-181/GP4.2.html) | 4.1
 Nov 28 | [4.3](/NSC-Math-181/GP4.3.html) | 4.2
