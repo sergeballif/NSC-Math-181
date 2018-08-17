@@ -64,8 +64,8 @@ Nov 30 | [4.4](/NSC-Math-181/GP4.4.html) | 4.3, [Miniproject 10](/NSC-Math-181/C
        | **Week 15**                     |
 Dec 4  | [5.1](/NSC-Math-181/GP5.1.html) | 4.4
 Dec 6  | [5.2](/NSC-Math-181/GP5.2.html) | 5.1
-Dec 10 | [5.3](/NSC-Math-181/GP5.3.html) | 5.2, [Miniproject 11](/NSC-Math-181/CoreLearning/math181miniproject11.pdf)
+Dec 8 | [5.3](/NSC-Math-181/GP5.3.html) | 5.2, [Miniproject 11](/NSC-Math-181/CoreLearning/math181miniproject11.pdf)
        | **Week 16**                     |
-Nov 11 | Review Day                      | 5.3
+Dec 11 | Review Day                      | 5.3
 Dec 13 | Final Exam                      |
 Dec 15 | Bonus Final
