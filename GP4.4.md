@@ -28,7 +28,7 @@ __Advanced objectives__: The following objectives are the subject of class discu
 
 To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following.
 
-__Textbook__: In _Active Calculus_, read Section 4.3. Make sure to read actively, working through examples and activities as you go.
+__Textbook__: In _Active Calculus_, read Section 4.4. Make sure to read actively, working through examples and activities as you go.
 
 __Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus).
 
@@ -40,4 +40,4 @@ __Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bi
 
 ## Activities
 
-The following activity is to be done _during_ and _following_ your reading and viewing of the resources. Go to [student.desmos.com](https://student.desmos.com/?prepopulateCode=V2ZG6) and join using your name in the format `Last, First`. For example, I would enter my name as `Ballif, Serge`. Complete each part of the activity. Some of these problems will require you to work them out on paper before entering your answer. Practice producing high quality work so that your work is readable and meaningful. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. __Remember to use the Piazza discussion board to ask about any questions you have.__
+The following activity is to be done _during_ and _following_ your reading and viewing of the resources. Go to [student.desmos.com](https://student.desmos.com/?prepopulateCode=56K5P4) and join using your name in the format `Last, First`. For example, I would enter my name as `Ballif, Serge`. Complete each part of the activity. Some of these problems will require you to work them out on paper before entering your answer. Practice producing high quality work so that your work is readable and meaningful. You will receive a mark of __Pass__ if each item response shows a good-faith effort to be right and is submitted prior to the deadline. __Remember to use the Piazza discussion board to ask about any questions you have.__
