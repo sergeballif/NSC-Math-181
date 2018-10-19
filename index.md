@@ -36,11 +36,11 @@ Oct 12  | [2.7](/NSC-Math-181/GP2.7.html) | 2.6, [Miniproject 5](/NSC-Math-181/C
        | **Week 8**                      |
 Oct 15 | Millionaire                     |
 Oct 17 | [2.8](/NSC-Math-181/GP2.8.html) | 2.7
-Oct 19 | 2.8 continued                   | [Miniproject 6](/NSC-Math-181/CoreLearning/math181miniproject6.pdf)
+Oct 19 | 2.8 continued                   | 
        | **Week 9**                      |
 Oct 22 | Review Day                      | 2.8
 Oct 24 | Midterm 2                       |
-Oct 26 | Nevada Day                      |
+Oct 26 | Nevada Day                      | [Miniproject 6](/NSC-Math-181/CoreLearning/math181miniproject6.pdf)
        | **Week 10**                     |
 Oct 29 | [3.1](/NSC-Math-181/GP3.1.html) |
 Oct 31  | 3.1 continued                   |                                                                            |
