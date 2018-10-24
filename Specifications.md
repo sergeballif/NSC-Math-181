@@ -10,7 +10,7 @@ title: Specifications
 The rules for determining Pass/No Pass work on these three items are very simple: 
 
 + A __Pass__ on Guided Practice is awarded to responses to Guided Practice items in which __a good-faith effort to be right is given on all items, and the submission is given before the deadline__. A __No Pass__ is awarded if the submission is turned in after the deadline. A __No Pass__ is also awarded if at least one item in the exercise set is blank or does not show evidence of a good-faith effort to be correct, for example if the response is "I don't know". Please note that __mathematical correctness is not a factor__; you are free to be wrong about an item as long as you show evidence of trying to be right.
-+ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. 
++ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. Students are responsible for evaluating all trigonometric functions at angles that are multiples of $\pi/4$ or $\pi/6$.
 + WeBWorK problems are the one item in the course that are graded using points. Typically each problem is worth 1 point, awarded in full if the answer is correct and 0 otherwise. (Some WeBWorK questions that involve multiple items to answer on a single question will allow partial credit.) 
 
 ## Specifications for work on WeBWorK Journal
@@ -60,7 +60,7 @@ For these items, we will often refer to the __standard audience for Math 181__, 
 
 >The standard audience in Math 181 consists of classmates in Math 181 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable. 
 
-Therefore some items will not need to be discussed in a solution; for example, if a problem involves solving $3x - 4 = 5$ for $x$, you can jump straight to $x = 3$ without showing work. But for example, if a problem is asking you to compute a derivative using the Chain Rule, you will need to show all the calculus steps because the standard audience has not seen your problem. (You could skip the algebra steps needed to simplify the solution, but then you must be 100% assured that your simplified answer is correct.)
+Therefore some items will not need to be discussed in a solution; for example, if a problem involves solving $3x - 4 = 5$ for $x$, you can jump straight to $x = 3$ without showing work. But for example, if a problem is asking you to compute a derivative using the Chain Rule, you will need to show all the calculus steps because the standard audience has not seen your problem. (You could skip the algebra steps needed to simplify the solution, but then you must be 100% assured that your simplified answer is correct.) Students are responsible for evaluating all trigonometric functions at angles that are multiples of $\pi/4$ or $\pi/6$.
 
 In addition to the above, here are some special rules for other aspects of your work on Problems and Miniprojects.
 
