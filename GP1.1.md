@@ -33,11 +33,9 @@ __Textbook__: In _Active Calculus_, read Section 1.1 pages 1--7. Make sure to re
 
 __Video__: Watch the following videos at the MTH 201 YouTube playlist (http://bit.ly/GVSUCalculus). 
 
-[![Using the average velocity formula](http://img.youtube.com/vi/6HPe7iwr88k/0.jpg)](http://www.youtube.com/watch?v=6HPe7iwr88k "Using the average velocity formula")
-
-[![Alternative average velocity formula](http://img.youtube.com/vi/O_Z9osv6VGk/0.jpg)](http://www.youtube.com/watch?v=O_Z9osv6VGk "Alternative average velocity formula")
-
-[![Finding instantaneous velocity](http://img.youtube.com/vi/j8kJubOTkME/0.jpg)](http://www.youtube.com/watch?v=j8kJubOTkME "Finding instantaneous velocity")
+- [Using the average velocity formula](https://www.youtube.com/watch?v=6HPe7iwr88k) (7:39)
+- [Alternative average velocity formula](https://www.youtube.com/watch?v=O_Z9osv6VGk) (11:07)
+- [Finding instantaneous velocity](https://www.youtube.com/watch?v=j8kJubOTkME) (14:03) 
 
 ## Activities
 
