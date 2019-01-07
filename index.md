@@ -23,9 +23,9 @@ Feb 15  | Midterm 1                       | [Miniproject 2](/NSC-Math-181/CoreLe
        | **Week 5**                      |
 Feb 18 | Holiday                         | 
 Feb 20 | [2.1](/NSC-Math-181/GP2.1.html) |
-Feb 22 | [2.2](/NSC-Math-181/GP2.2.html) | 2.1
+Feb 22 | [2.2](/NSC-Math-181/GP2.2.html) | 2.1 [Miniproject 3](/NSC-Math-181/CoreLearning/math181miniproject3.pdf)
        | **Week 6**                      |
-Feb 25 | [2.3](/NSC-Math-181/GP2.3.html) | 2.2 [Miniproject 3](/NSC-Math-181/CoreLearning/math181miniproject3.pdf)
+Feb 25 | [2.3](/NSC-Math-181/GP2.3.html) | 2.2 
 Feb 27 | [2.4](/NSC-Math-181/GP2.4.html) | 2.3
 Mar 1  | [2.5](/NSC-Math-181/GP2.5.html) | 2.4, [Miniproject 4](/NSC-Math-181/CoreLearning/math181miniproject4.pdf)
        | **Week 7**                      |
