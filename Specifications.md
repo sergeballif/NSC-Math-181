@@ -10,8 +10,8 @@ title: Specifications
 The rules for determining Pass/No Pass work on these three items are very simple: 
 
 + A __Pass__ on Guided Practice is awarded to responses to Guided Practice items in which __a good-faith effort to be right is given on all items, and the submission is given before the deadline__. A __No Pass__ is awarded if the submission is turned in after the deadline. A __No Pass__ is also awarded if at least one item in the exercise set is blank or does not show evidence of a good-faith effort to be correct, for example if the response is "I don't know". Please note that __mathematical correctness is not a factor__; you are free to be wrong about an item as long as you show evidence of trying to be right.
-+ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. A single small error will usually be overlooked, but signficant errors will result in a __No Pass__. Students are responsible for evaluating all trigonometric functions at angles that are multiples of \\(\pi/4\\) or \\(\pi/\\)$.
-+ WeBWorK problems are the one item in the course that are graded using points. Typically each problem is worth 1 point, awarded in full if the answer is correct and 0 otherwise. (Some WeBWorK questions that involve multiple items to answer on a single question will allow partial credit.) 
++ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. A single small error will usually be overlooked, but signficant errors will result in a __No Pass__. Students are responsible for evaluating all trigonometric functions at angles that are multiples of \\(\pi/4\\) or \\(\pi/6\\).
++ WeBWorK problems are the one item in the course that are graded using points. Typically each problem is worth 1 point, awarded in full if the answer is correct and 0 otherwise. (Some WeBWorK questions that involve multiple items to answer on a single question will allow partial credit.) Your grade is always up-to-date in WeBWorK.
 
 ## Specifications for work on WeBWorK Journal
 __Instructions__
