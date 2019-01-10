@@ -10,7 +10,7 @@ title: Specifications
 The rules for determining Pass/No Pass work on these three items are very simple: 
 
 + A __Pass__ on Guided Practice is awarded to responses to Guided Practice items in which __a good-faith effort to be right is given on all items, and the submission is given before the deadline__. A __No Pass__ is awarded if the submission is turned in after the deadline. A __No Pass__ is also awarded if at least one item in the exercise set is blank or does not show evidence of a good-faith effort to be correct, for example if the response is "I don't know". Please note that __mathematical correctness is not a factor__; you are free to be wrong about an item as long as you show evidence of trying to be right.
-+ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. Students are responsible for evaluating all trigonometric functions at angles that are multiples of $\pi/4$ or $\pi/6$.
++ A __Pass__ on a Daily Quiz is awarded if I score your work as at least 4 points out of 5; otherwise the mark is __No Pass__. A single small error will usually be overlooked, but signficant errors will result in a __No Pass__. Students are responsible for evaluating all trigonometric functions at angles that are multiples of \\(\pi/4\\) or \\(\pi/\\)$.
 + WeBWorK problems are the one item in the course that are graded using points. Typically each problem is worth 1 point, awarded in full if the answer is correct and 0 otherwise. (Some WeBWorK questions that involve multiple items to answer on a single question will allow partial credit.) 
 
 ## Specifications for work on WeBWorK Journal
@@ -18,7 +18,7 @@ __Instructions__
 + Start each new WeBWorK assignment on a new page.  Have every page of the journal labeled at the top with the date the problems on that page are due.
 + Clearly enumerate each problem and provide a brief summary of the problem statement. This restatment of the problem is so that (a) you are certain you've read the problem statement carefully, and (b) you have a record of the statement in your work to return to when studying for exams. For example, instead of writing just Problem 3 you should write
 
->Problem 3. Let $f(x) = 3e^{5x^2}$.  Find an equation for the tangent line at the point where $x = 1$. 
+>Problem 3. Let \\(f(x) = 3e^{5x^2}\\).  Find an equation for the tangent line at the point where \\(x = 1\\). 
 
 * Provide sufficient work to demonstrate the full reasoning behind your solution.  The work that leads to an answer is *even more important than* the final answer itself.  This is important not only for your own understanding, but also for future studying for exams.
 * Clearly circle your answer that you input in WeBWorK.  Indicate clearly on your paper if the answer was accepted as correct or not in WeBWorK but putting a checkmark (correct) next to your circled answer. 
