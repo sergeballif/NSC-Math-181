@@ -18,7 +18,7 @@ __Instructions__
 + Start each new WeBWorK assignment on a new page.  Have every page of the journal labeled at the top with the date the problems on that page are due.
 + Clearly enumerate each problem and provide a brief summary of the problem statement. This restatment of the problem is so that (a) you are certain you've read the problem statement carefully, and (b) you have a record of the statement in your work to return to when studying for exams. For example, instead of writing just Problem 3 you should write
 
->Problem 3. Let $f(x) = 3e^{5x^2}$.  Find an equation for the tangent line at the point where $x = 1$. 
+>Problem 3. Let \\(f(x) = 3e^{5x^2}\\).  Find an equation for the tangent line at the point where \\(x = 1\\). 
 
 * Provide sufficient work to demonstrate the full reasoning behind your solution.  The work that leads to an answer is *even more important than* the final answer itself.  This is important not only for your own understanding, but also for future studying for exams.
 * Clearly circle your answer that you input in WeBWorK.  Indicate clearly on your paper if the answer was accepted as correct or not in WeBWorK but putting a checkmark (correct) next to your circled answer. 
