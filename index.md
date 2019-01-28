@@ -9,7 +9,7 @@ Date   | Guided Practice                 | WeBWorK HW Due
 Jan 23 | Intro                           |
 Jan 25 | [1.1](/NSC-Math-181/GP1.1.html) |
        | **Week 2**                      |
-Jan 28 | [1.2](/NSC-Math-181/GP1.2.html) | 1.1, [Getting Started](https://student.desmos.com/?prepopulateCode=hts5)
+Jan 28 | [1.2](/NSC-Math-181/GP1.2.html) | 1.1
 Jan 30 | [1.3](/NSC-Math-181/GP1.3.html) | 1.2
 Feb 1  | [1.4](/NSC-Math-181/GP1.4.html) | 1.3
        | **Week 3**                      |
