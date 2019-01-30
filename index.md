@@ -15,15 +15,15 @@ Feb 1  | [1.4](/NSC-Math-181/GP1.4.html) | 1.3
        | **Week 3**                      |
 Feb 4  | [1.5](/NSC-Math-181/GP1.5.html) | 1.4
 Feb 6  | [1.6](/NSC-Math-181/GP1.6.html) | 1.5
-Feb 8  | [1.7](/NSC-Math-181/GP1.7.html) | 1.6, [Miniproject 1](/NSC-Math-181/CoreLearning/math181miniproject1.pdf)
+Feb 8  | [1.7](/NSC-Math-181/GP1.7.html) | 1.6, [Miniproject 1](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
        | **Week 4**                      |
 Feb 11  | [1.8](/NSC-Math-181/GP1.8.html) | 1.7
 Feb 13  | Review Day                      | 1.8
-Feb 15  | Midterm 1                       | [Miniproject 2](/NSC-Math-181/CoreLearning/math181miniproject2.pdf)
+Feb 15  | Midterm 1                       | [Miniproject 2](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
        | **Week 5**                      |
 Feb 18 | Holiday                         | 
 Feb 20 | [2.1](/NSC-Math-181/GP2.1.html) |
-Feb 22 | [2.2](/NSC-Math-181/GP2.2.html) | 2.1 [Miniproject 3](/NSC-Math-181/CoreLearning/math181miniproject3.pdf)
+Feb 22 | [2.2](/NSC-Math-181/GP2.2.html) | 2.1 [Miniproject 3](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
        | **Week 6**                      |
 Feb 25 | [2.3](/NSC-Math-181/GP2.3.html) | 2.2 
 Feb 27 | [2.4](/NSC-Math-181/GP2.4.html) | 2.3
