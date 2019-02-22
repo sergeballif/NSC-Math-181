@@ -28,11 +28,11 @@ To gain proficiency in the learning objectives, use the following resources. You
 __Textbook__: In _Active Calculus_, read Section 2.2. Make sure to read actively, working through examples and activities as you go.
 
 __Video__: Watch the following videos.
-These are obviously not made by Prof. Talbert.
+These are just  gathered from youtube.
 
-+ Radians and degrees [https://www.youtube.com/watch?v=wcfkDuFpbiM](https://www.youtube.com/watch?v=wcfkDuFpbiM)
-+ Basic trigonometry: Sin, Cos, Tan [https://www.youtube.com/watch?v=X5uFqpypDy4](https://www.youtube.com/watch?v=X5uFqpypDy4)
-+ How to remember the unit circle [http://youtu.be/qTbDQ9gkKJg](http://youtu.be/qTbDQ9gkKJg)
++ Unit Circle Exact Values: [https://youtu.be/CJuLeDHSBEU](https://youtu.be/CJuLeDHSBEU)
++ Basic trigonometry: Sin, Cos, Tan [https://www.youtube.com/watch?v=bSM7RNSbWhM](https://www.youtube.com/watch?v=bSM7RNSbWhM) 
++ How to remember the unit circle [https://youtu.be/c819bGfH8FA](https://youtu.be/c819bGfH8FA)
 
 
 ## Activities
