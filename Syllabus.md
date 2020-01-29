@@ -159,7 +159,7 @@ __Tokens:__ Each student will be given 5 “tokens” at the beginning of the te
 
 * A revision of a Miniproject that was assessed as a __No PASS__ (within one week of receiving the grade).
 * A revision of a WeBWorK journal (within one week of receiving the grade)
-* A third attempt of a Quiz (any time during the semester though the second attempt must be within a week of taking the first quiz).
+* A third attempt of a Quiz (within a week of taking the first quiz).
 * A 24-hour extension on any Miniproject or WeBWorK set. If you choose to use a token for a deadline extension, you must inform me prior to the original deadline. Submissions given after the extended deadline are not accepted.  
 
 Opportunities to earn additional tokens may be given during the semester.
