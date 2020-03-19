@@ -41,15 +41,15 @@ Mar 16 | Review Day                      | 2.8
 Mar 18 | Midterm 2                       |
 Mar 20 | [3.1](/NSC-Math-181/GP3.1.html) |
        | **Week 10**                     |
-Mar 23 | 3.1 continued                   |
-Mar 25 | [3.3](/NSC-Math-181/GP3.3.html) | 3.1
-Mar 27 | [3.4](/NSC-Math-181/GP3.4.html) | 3.3, [Miniproject 7](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
-       | **Week 11**                     |
-Mar 30 | 3.4 continued                   |
-Apr 1  | [3.5](/NSC-Math-181/GP3.5.html) | 3.4
-Apr 3  | 3.5 continued                   | [Miniproject 8](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
+       | Spring Break  |
+       | **Week 11**    
+Mar 30 | 3.1 continued                   |
+Apr 1  | [3.3](/NSC-Math-181/GP3.3.html) | 3.1
+Apr 3  | [3.4](/NSC-Math-181/GP3.4.html) | 3.3, [Miniproject 7](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
        | **Week 12**                     |
-       | Spring Break                    |
+Apr 6 | 3.4 continued                   |
+Apr 8  | [3.5](/NSC-Math-181/GP3.5.html) | 3.4
+Apr 10  | 3.5 continued                   | [Miniproject 8](https://hackmd.io/p7Q64nqpSxCy4iP8--xv-A?view)
        | **Week 13**                     |
 Apr 13 | Review Day                      | 3.5
 Apr 15 | Midterm 3                       |
